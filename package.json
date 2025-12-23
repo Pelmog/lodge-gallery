@@ -8,17 +8,17 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "optimize": "node scripts/optimize-images.js",
-    "manifest": "node scripts/generate-manifest.js",
-    "prepare": "npm run optimize && npm run manifest"
+    "images:optimize": "node scripts/optimize-images.js",
+    "images:manifest": "node scripts/generate-manifest.js",
+    "images:process": "npm run images:optimize && npm run images:manifest"
   },
   "dependencies": {
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "react-router-dom": "^7.11.0",
-    "sharp": "^0.34.5"
+    "react-router-dom": "^7.11.0"
   },
   "devDependencies": {
+    "sharp": "^0.34.5",
     "@eslint/js": "^9.39.1",
     "@tailwindcss/vite": "^4.1.18",
     "@types/node": "^24.10.1",
