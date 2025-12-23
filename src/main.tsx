@@ -6,7 +6,7 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename="/gallery">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/:lodgeId" element={<App />} />
