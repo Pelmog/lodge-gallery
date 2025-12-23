@@ -15,10 +15,10 @@ npm run dev              # Start dev server at http://localhost:5173
 # Build
 npm run build            # Production build to dist/
 
-# Image Processing (run when images change)
-npm run optimize         # Generate thumbnails + compress images
-npm run manifest         # Regenerate src/data/lodges.ts from images
-npm run prepare          # Run both optimize + manifest
+# Image Processing (run locally when images change)
+npm run images:optimize  # Generate thumbnails + compress images
+npm run images:manifest  # Regenerate src/data/lodges.ts from images
+npm run images:process   # Run both optimize + manifest
 
 # Preview production build locally
 npm run preview
@@ -55,9 +55,13 @@ src/data/lodges.ts                    → React components
 - URLs map directly to lodge IDs: `/apt-9`, `/highland-lodge-1`, `/osprey`
 - Root `/` redirects to first lodge
 - Invalid lodge IDs redirect to first lodge
-- `public/_redirects` handles SPA routing on Cloudflare Pages
+- SPA routing handled by:
+  - `public/_redirects` for Cloudflare Pages
+  - `public/.htaccess` for Apache (IONOS, etc.)
 
-## Deployment (Cloudflare Pages)
+## Deployment
+
+### Option A: Cloudflare Pages (recommended)
 
 1. Connect GitHub repo to Cloudflare Pages
 2. Build settings:
@@ -65,11 +69,24 @@ src/data/lodges.ts                    → React components
    - Output directory: `dist`
 3. Deploy
 
-The `_redirects` file ensures client-side routing works for direct URL access.
+### Option B: IONOS / Apache Hosting
+
+1. Build locally:
+   ```bash
+   npm run build
+   ```
+
+2. Upload entire `dist/` folder contents to IONOS webspace via:
+   - IONOS Webspace Explorer, or
+   - FTP/SFTP client (FileZilla, etc.)
+
+3. The `.htaccess` file handles SPA routing automatically
+
+**IONOS FTP credentials**: Found in IONOS Control Panel → Hosting → SFTP & SSH
 
 ## Adding/Removing Images
 
 1. Add/remove images in the original source folders (outside this project)
 2. Copy updated folders to `public/images-opt/` (normalized names: lowercase, hyphens)
-3. Run `npm run prepare` to re-optimize and regenerate manifest
+3. Run `npm run images:process` to re-optimize and regenerate manifest
 4. Rebuild and deploy
