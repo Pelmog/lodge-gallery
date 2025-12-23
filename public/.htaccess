@@ -1,6 +1,6 @@
 # Enable rewrite engine
 RewriteEngine On
-RewriteBase /
+RewriteBase /gallery/
 
 # If the request is for an existing file or directory, serve it directly
 RewriteCond %{REQUEST_FILENAME} -f [OR]
