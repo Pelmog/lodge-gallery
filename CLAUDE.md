@@ -6,11 +6,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Lodge Gallery is a React-based image gallery for browsing property photos of vacation lodges/apartments. It features a responsive sidebar navigation, thumbnail grids, and a lightbox for full-size image viewing.
 
+**Live site**: https://lochrannochhighlandclub.co.uk/gallery/
+
 ## Commands
 
 ```bash
 # Development
-npm run dev              # Start dev server at http://localhost:5173
+npm run dev              # Start dev server at http://localhost:5173/gallery/
 
 # Build
 npm run build            # Production build to dist/
@@ -33,6 +35,7 @@ npm run preview
    - Full-size: max 1920px, 80% quality JPEG
    - Thumbnails: 400px square crops in `/thumb/` subdirectory
 3. `scripts/generate-manifest.js` - Scans image folders, generates typed `src/data/lodges.ts`
+   - Uses **relative paths** (no leading `/`) so Vite's base path is respected
 
 ### Data Flow
 
@@ -52,37 +55,45 @@ src/data/lodges.ts                    → React components
 
 ### Routing
 
-- URLs map directly to lodge IDs: `/apt-9`, `/highland-lodge-1`, `/osprey`
-- Root `/` redirects to first lodge
+- URLs map directly to lodge IDs: `/gallery/apt-9`, `/gallery/highland-lodge-1`
+- Root `/gallery/` redirects to first lodge
 - Invalid lodge IDs redirect to first lodge
 - SPA routing handled by:
   - `public/_redirects` for Cloudflare Pages
   - `public/.htaccess` for Apache (IONOS, etc.)
 
+## Subdirectory Configuration
+
+Currently configured for `/gallery/` subdirectory. Three files control this:
+
+| File | Setting | Purpose |
+|------|---------|---------|
+| `vite.config.ts` | `base: '/gallery/'` | Asset paths in built HTML/JS |
+| `src/main.tsx` | `basename="/gallery"` | React Router path matching |
+| `public/.htaccess` | `RewriteBase /gallery/` | Apache SPA routing |
+
+**To change subdirectory**: Update all three files, regenerate manifest, rebuild.
+
 ## Deployment
 
-### Option A: Cloudflare Pages (recommended)
-
-1. Connect GitHub repo to Cloudflare Pages
-2. Build settings:
-   - Build command: `npm run build`
-   - Output directory: `dist`
-3. Deploy
-
-### Option B: IONOS / Apache Hosting
+### Current: IONOS (lochrannochhighlandclub.co.uk/gallery/)
 
 1. Build locally:
    ```bash
    npm run build
    ```
 
-2. Upload entire `dist/` folder contents to IONOS webspace via:
+2. Upload `dist/` folder contents to IONOS `gallery/` folder via:
    - IONOS Webspace Explorer, or
-   - FTP/SFTP client (FileZilla, etc.)
+   - FTP/SFTP client
 
 3. The `.htaccess` file handles SPA routing automatically
 
-**IONOS FTP credentials**: Found in IONOS Control Panel → Hosting → SFTP & SSH
+**IONOS FTP credentials**: IONOS Control Panel → Hosting → SFTP & SSH
+
+### Alternative: Cloudflare Pages
+
+Note: Would need base path changed to `/` for root deployment.
 
 ## Adding/Removing Images
 
