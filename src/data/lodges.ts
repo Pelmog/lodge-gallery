@@ -20,32 +20,32 @@ export const lodges: Lodge[] = [
     "category": "Apt",
     "images": [
       {
-        "full": "/images-opt/apt-9/20241002_111203.jpg",
-        "thumb": "/images-opt/apt-9/thumb/20241002_111203.jpg"
+        "full": "images-opt/apt-9/20241002_111203.jpg",
+        "thumb": "images-opt/apt-9/thumb/20241002_111203.jpg"
       },
       {
-        "full": "/images-opt/apt-9/20241002_111220.jpg",
-        "thumb": "/images-opt/apt-9/thumb/20241002_111220.jpg"
+        "full": "images-opt/apt-9/20241002_111220.jpg",
+        "thumb": "images-opt/apt-9/thumb/20241002_111220.jpg"
       },
       {
-        "full": "/images-opt/apt-9/20241002_111250-2.jpg",
-        "thumb": "/images-opt/apt-9/thumb/20241002_111250-2.jpg"
+        "full": "images-opt/apt-9/20241002_111250-2.jpg",
+        "thumb": "images-opt/apt-9/thumb/20241002_111250-2.jpg"
       },
       {
-        "full": "/images-opt/apt-9/20241002_111336.jpg",
-        "thumb": "/images-opt/apt-9/thumb/20241002_111336.jpg"
+        "full": "images-opt/apt-9/20241002_111336.jpg",
+        "thumb": "images-opt/apt-9/thumb/20241002_111336.jpg"
       },
       {
-        "full": "/images-opt/apt-9/20241011_134129.jpg",
-        "thumb": "/images-opt/apt-9/thumb/20241011_134129.jpg"
+        "full": "images-opt/apt-9/20241011_134129.jpg",
+        "thumb": "images-opt/apt-9/thumb/20241011_134129.jpg"
       },
       {
-        "full": "/images-opt/apt-9/20241011_134151.jpg",
-        "thumb": "/images-opt/apt-9/thumb/20241011_134151.jpg"
+        "full": "images-opt/apt-9/20241011_134151.jpg",
+        "thumb": "images-opt/apt-9/thumb/20241011_134151.jpg"
       },
       {
-        "full": "/images-opt/apt-9/20241011_134217-2.jpg",
-        "thumb": "/images-opt/apt-9/thumb/20241011_134217-2.jpg"
+        "full": "images-opt/apt-9/20241011_134217-2.jpg",
+        "thumb": "images-opt/apt-9/thumb/20241011_134217-2.jpg"
       }
     ]
   },
@@ -55,32 +55,32 @@ export const lodges: Lodge[] = [
     "category": "Apt",
     "images": [
       {
-        "full": "/images-opt/apt-10/011-(2).jpg",
-        "thumb": "/images-opt/apt-10/thumb/011-(2).jpg"
+        "full": "images-opt/apt-10/011-(2).jpg",
+        "thumb": "images-opt/apt-10/thumb/011-(2).jpg"
       },
       {
-        "full": "/images-opt/apt-10/014-(2).jpg",
-        "thumb": "/images-opt/apt-10/thumb/014-(2).jpg"
+        "full": "images-opt/apt-10/014-(2).jpg",
+        "thumb": "images-opt/apt-10/thumb/014-(2).jpg"
       },
       {
-        "full": "/images-opt/apt-10/20241002_112942.jpg",
-        "thumb": "/images-opt/apt-10/thumb/20241002_112942.jpg"
+        "full": "images-opt/apt-10/20241002_112942.jpg",
+        "thumb": "images-opt/apt-10/thumb/20241002_112942.jpg"
       },
       {
-        "full": "/images-opt/apt-10/20241002_112953.jpg",
-        "thumb": "/images-opt/apt-10/thumb/20241002_112953.jpg"
+        "full": "images-opt/apt-10/20241002_112953.jpg",
+        "thumb": "images-opt/apt-10/thumb/20241002_112953.jpg"
       },
       {
-        "full": "/images-opt/apt-10/20241011_134129.jpg",
-        "thumb": "/images-opt/apt-10/thumb/20241011_134129.jpg"
+        "full": "images-opt/apt-10/20241011_134129.jpg",
+        "thumb": "images-opt/apt-10/thumb/20241011_134129.jpg"
       },
       {
-        "full": "/images-opt/apt-10/20241011_134151.jpg",
-        "thumb": "/images-opt/apt-10/thumb/20241011_134151.jpg"
+        "full": "images-opt/apt-10/20241011_134151.jpg",
+        "thumb": "images-opt/apt-10/thumb/20241011_134151.jpg"
       },
       {
-        "full": "/images-opt/apt-10/20241011_134217-2.jpg",
-        "thumb": "/images-opt/apt-10/thumb/20241011_134217-2.jpg"
+        "full": "images-opt/apt-10/20241011_134217-2.jpg",
+        "thumb": "images-opt/apt-10/thumb/20241011_134217-2.jpg"
       }
     ]
   },
@@ -90,28 +90,28 @@ export const lodges: Lodge[] = [
     "category": "Apt",
     "images": [
       {
-        "full": "/images-opt/apt-11/20241002_115320-2.jpg",
-        "thumb": "/images-opt/apt-11/thumb/20241002_115320-2.jpg"
+        "full": "images-opt/apt-11/20241002_115320-2.jpg",
+        "thumb": "images-opt/apt-11/thumb/20241002_115320-2.jpg"
       },
       {
-        "full": "/images-opt/apt-11/20241002_115320.jpg",
-        "thumb": "/images-opt/apt-11/thumb/20241002_115320.jpg"
+        "full": "images-opt/apt-11/20241002_115320.jpg",
+        "thumb": "images-opt/apt-11/thumb/20241002_115320.jpg"
       },
       {
-        "full": "/images-opt/apt-11/20241107_112154.jpg",
-        "thumb": "/images-opt/apt-11/thumb/20241107_112154.jpg"
+        "full": "images-opt/apt-11/20241107_112154.jpg",
+        "thumb": "images-opt/apt-11/thumb/20241107_112154.jpg"
       },
       {
-        "full": "/images-opt/apt-11/20241107_112303.jpg",
-        "thumb": "/images-opt/apt-11/thumb/20241107_112303.jpg"
+        "full": "images-opt/apt-11/20241107_112303.jpg",
+        "thumb": "images-opt/apt-11/thumb/20241107_112303.jpg"
       },
       {
-        "full": "/images-opt/apt-11/20241107_112325.jpg",
-        "thumb": "/images-opt/apt-11/thumb/20241107_112325.jpg"
+        "full": "images-opt/apt-11/20241107_112325.jpg",
+        "thumb": "images-opt/apt-11/thumb/20241107_112325.jpg"
       },
       {
-        "full": "/images-opt/apt-11/20250114_103735.jpg",
-        "thumb": "/images-opt/apt-11/thumb/20250114_103735.jpg"
+        "full": "images-opt/apt-11/20250114_103735.jpg",
+        "thumb": "images-opt/apt-11/thumb/20250114_103735.jpg"
       }
     ]
   },
@@ -121,32 +121,32 @@ export const lodges: Lodge[] = [
     "category": "Apt",
     "images": [
       {
-        "full": "/images-opt/apt-12/20241002_113201.jpg",
-        "thumb": "/images-opt/apt-12/thumb/20241002_113201.jpg"
+        "full": "images-opt/apt-12/20241002_113201.jpg",
+        "thumb": "images-opt/apt-12/thumb/20241002_113201.jpg"
       },
       {
-        "full": "/images-opt/apt-12/20241002_113218.jpg",
-        "thumb": "/images-opt/apt-12/thumb/20241002_113218.jpg"
+        "full": "images-opt/apt-12/20241002_113218.jpg",
+        "thumb": "images-opt/apt-12/thumb/20241002_113218.jpg"
       },
       {
-        "full": "/images-opt/apt-12/20241002_113245.jpg",
-        "thumb": "/images-opt/apt-12/thumb/20241002_113245.jpg"
+        "full": "images-opt/apt-12/20241002_113245.jpg",
+        "thumb": "images-opt/apt-12/thumb/20241002_113245.jpg"
       },
       {
-        "full": "/images-opt/apt-12/20241002_113256.jpg",
-        "thumb": "/images-opt/apt-12/thumb/20241002_113256.jpg"
+        "full": "images-opt/apt-12/20241002_113256.jpg",
+        "thumb": "images-opt/apt-12/thumb/20241002_113256.jpg"
       },
       {
-        "full": "/images-opt/apt-12/20241002_113306.jpg",
-        "thumb": "/images-opt/apt-12/thumb/20241002_113306.jpg"
+        "full": "images-opt/apt-12/20241002_113306.jpg",
+        "thumb": "images-opt/apt-12/thumb/20241002_113306.jpg"
       },
       {
-        "full": "/images-opt/apt-12/20241002_113332.jpg",
-        "thumb": "/images-opt/apt-12/thumb/20241002_113332.jpg"
+        "full": "images-opt/apt-12/20241002_113332.jpg",
+        "thumb": "images-opt/apt-12/thumb/20241002_113332.jpg"
       },
       {
-        "full": "/images-opt/apt-12/20241002_113343-2.jpg",
-        "thumb": "/images-opt/apt-12/thumb/20241002_113343-2.jpg"
+        "full": "images-opt/apt-12/20241002_113343-2.jpg",
+        "thumb": "images-opt/apt-12/thumb/20241002_113343-2.jpg"
       }
     ]
   },
@@ -156,20 +156,20 @@ export const lodges: Lodge[] = [
     "category": "Apt",
     "images": [
       {
-        "full": "/images-opt/apt-13/20241002_115110.jpg",
-        "thumb": "/images-opt/apt-13/thumb/20241002_115110.jpg"
+        "full": "images-opt/apt-13/20241002_115110.jpg",
+        "thumb": "images-opt/apt-13/thumb/20241002_115110.jpg"
       },
       {
-        "full": "/images-opt/apt-13/20241002_115128.jpg",
-        "thumb": "/images-opt/apt-13/thumb/20241002_115128.jpg"
+        "full": "images-opt/apt-13/20241002_115128.jpg",
+        "thumb": "images-opt/apt-13/thumb/20241002_115128.jpg"
       },
       {
-        "full": "/images-opt/apt-13/20250114_103334.jpg",
-        "thumb": "/images-opt/apt-13/thumb/20250114_103334.jpg"
+        "full": "images-opt/apt-13/20250114_103334.jpg",
+        "thumb": "images-opt/apt-13/thumb/20250114_103334.jpg"
       },
       {
-        "full": "/images-opt/apt-13/living-apt.jpg",
-        "thumb": "/images-opt/apt-13/thumb/living-apt.jpg"
+        "full": "images-opt/apt-13/living-apt.jpg",
+        "thumb": "images-opt/apt-13/thumb/living-apt.jpg"
       }
     ]
   },
@@ -179,36 +179,36 @@ export const lodges: Lodge[] = [
     "category": "Apt",
     "images": [
       {
-        "full": "/images-opt/apt-14/20241112_131052.jpg",
-        "thumb": "/images-opt/apt-14/thumb/20241112_131052.jpg"
+        "full": "images-opt/apt-14/20241112_131052.jpg",
+        "thumb": "images-opt/apt-14/thumb/20241112_131052.jpg"
       },
       {
-        "full": "/images-opt/apt-14/20241112_131101.jpg",
-        "thumb": "/images-opt/apt-14/thumb/20241112_131101.jpg"
+        "full": "images-opt/apt-14/20241112_131101.jpg",
+        "thumb": "images-opt/apt-14/thumb/20241112_131101.jpg"
       },
       {
-        "full": "/images-opt/apt-14/20241112_131111.jpg",
-        "thumb": "/images-opt/apt-14/thumb/20241112_131111.jpg"
+        "full": "images-opt/apt-14/20241112_131111.jpg",
+        "thumb": "images-opt/apt-14/thumb/20241112_131111.jpg"
       },
       {
-        "full": "/images-opt/apt-14/20241112_131121.jpg",
-        "thumb": "/images-opt/apt-14/thumb/20241112_131121.jpg"
+        "full": "images-opt/apt-14/20241112_131121.jpg",
+        "thumb": "images-opt/apt-14/thumb/20241112_131121.jpg"
       },
       {
-        "full": "/images-opt/apt-14/20241112_131139.jpg",
-        "thumb": "/images-opt/apt-14/thumb/20241112_131139.jpg"
+        "full": "images-opt/apt-14/20241112_131139.jpg",
+        "thumb": "images-opt/apt-14/thumb/20241112_131139.jpg"
       },
       {
-        "full": "/images-opt/apt-14/20241112_131204.jpg",
-        "thumb": "/images-opt/apt-14/thumb/20241112_131204.jpg"
+        "full": "images-opt/apt-14/20241112_131204.jpg",
+        "thumb": "images-opt/apt-14/thumb/20241112_131204.jpg"
       },
       {
-        "full": "/images-opt/apt-14/20250114_101027.jpg",
-        "thumb": "/images-opt/apt-14/thumb/20250114_101027.jpg"
+        "full": "images-opt/apt-14/20250114_101027.jpg",
+        "thumb": "images-opt/apt-14/thumb/20250114_101027.jpg"
       },
       {
-        "full": "/images-opt/apt-14/apt-living.jpg",
-        "thumb": "/images-opt/apt-14/thumb/apt-living.jpg"
+        "full": "images-opt/apt-14/apt-living.jpg",
+        "thumb": "images-opt/apt-14/thumb/apt-living.jpg"
       }
     ]
   },
@@ -218,36 +218,36 @@ export const lodges: Lodge[] = [
     "category": "Apt",
     "images": [
       {
-        "full": "/images-opt/apt-15/20241112_131052.jpg",
-        "thumb": "/images-opt/apt-15/thumb/20241112_131052.jpg"
+        "full": "images-opt/apt-15/20241112_131052.jpg",
+        "thumb": "images-opt/apt-15/thumb/20241112_131052.jpg"
       },
       {
-        "full": "/images-opt/apt-15/20241112_131101.jpg",
-        "thumb": "/images-opt/apt-15/thumb/20241112_131101.jpg"
+        "full": "images-opt/apt-15/20241112_131101.jpg",
+        "thumb": "images-opt/apt-15/thumb/20241112_131101.jpg"
       },
       {
-        "full": "/images-opt/apt-15/20241112_131111.jpg",
-        "thumb": "/images-opt/apt-15/thumb/20241112_131111.jpg"
+        "full": "images-opt/apt-15/20241112_131111.jpg",
+        "thumb": "images-opt/apt-15/thumb/20241112_131111.jpg"
       },
       {
-        "full": "/images-opt/apt-15/20241112_131121.jpg",
-        "thumb": "/images-opt/apt-15/thumb/20241112_131121.jpg"
+        "full": "images-opt/apt-15/20241112_131121.jpg",
+        "thumb": "images-opt/apt-15/thumb/20241112_131121.jpg"
       },
       {
-        "full": "/images-opt/apt-15/20241112_131139.jpg",
-        "thumb": "/images-opt/apt-15/thumb/20241112_131139.jpg"
+        "full": "images-opt/apt-15/20241112_131139.jpg",
+        "thumb": "images-opt/apt-15/thumb/20241112_131139.jpg"
       },
       {
-        "full": "/images-opt/apt-15/20241112_131204.jpg",
-        "thumb": "/images-opt/apt-15/thumb/20241112_131204.jpg"
+        "full": "images-opt/apt-15/20241112_131204.jpg",
+        "thumb": "images-opt/apt-15/thumb/20241112_131204.jpg"
       },
       {
-        "full": "/images-opt/apt-15/20250114_101027.jpg",
-        "thumb": "/images-opt/apt-15/thumb/20250114_101027.jpg"
+        "full": "images-opt/apt-15/20250114_101027.jpg",
+        "thumb": "images-opt/apt-15/thumb/20250114_101027.jpg"
       },
       {
-        "full": "/images-opt/apt-15/apt-living.jpg",
-        "thumb": "/images-opt/apt-15/thumb/apt-living.jpg"
+        "full": "images-opt/apt-15/apt-living.jpg",
+        "thumb": "images-opt/apt-15/thumb/apt-living.jpg"
       }
     ]
   },
@@ -257,36 +257,36 @@ export const lodges: Lodge[] = [
     "category": "Apt",
     "images": [
       {
-        "full": "/images-opt/apt-16/20241011_135755.jpg",
-        "thumb": "/images-opt/apt-16/thumb/20241011_135755.jpg"
+        "full": "images-opt/apt-16/20241011_135755.jpg",
+        "thumb": "images-opt/apt-16/thumb/20241011_135755.jpg"
       },
       {
-        "full": "/images-opt/apt-16/20241011_135806.jpg",
-        "thumb": "/images-opt/apt-16/thumb/20241011_135806.jpg"
+        "full": "images-opt/apt-16/20241011_135806.jpg",
+        "thumb": "images-opt/apt-16/thumb/20241011_135806.jpg"
       },
       {
-        "full": "/images-opt/apt-16/20241011_135841.jpg",
-        "thumb": "/images-opt/apt-16/thumb/20241011_135841.jpg"
+        "full": "images-opt/apt-16/20241011_135841.jpg",
+        "thumb": "images-opt/apt-16/thumb/20241011_135841.jpg"
       },
       {
-        "full": "/images-opt/apt-16/20241011_135857.jpg",
-        "thumb": "/images-opt/apt-16/thumb/20241011_135857.jpg"
+        "full": "images-opt/apt-16/20241011_135857.jpg",
+        "thumb": "images-opt/apt-16/thumb/20241011_135857.jpg"
       },
       {
-        "full": "/images-opt/apt-16/20241011_135913.jpg",
-        "thumb": "/images-opt/apt-16/thumb/20241011_135913.jpg"
+        "full": "images-opt/apt-16/20241011_135913.jpg",
+        "thumb": "images-opt/apt-16/thumb/20241011_135913.jpg"
       },
       {
-        "full": "/images-opt/apt-16/20241011_135921.jpg",
-        "thumb": "/images-opt/apt-16/thumb/20241011_135921.jpg"
+        "full": "images-opt/apt-16/20241011_135921.jpg",
+        "thumb": "images-opt/apt-16/thumb/20241011_135921.jpg"
       },
       {
-        "full": "/images-opt/apt-16/20241011_135929.jpg",
-        "thumb": "/images-opt/apt-16/thumb/20241011_135929.jpg"
+        "full": "images-opt/apt-16/20241011_135929.jpg",
+        "thumb": "images-opt/apt-16/thumb/20241011_135929.jpg"
       },
       {
-        "full": "/images-opt/apt-16/20241011_135940-3.jpg",
-        "thumb": "/images-opt/apt-16/thumb/20241011_135940-3.jpg"
+        "full": "images-opt/apt-16/20241011_135940-3.jpg",
+        "thumb": "images-opt/apt-16/thumb/20241011_135940-3.jpg"
       }
     ]
   },
@@ -296,72 +296,72 @@ export const lodges: Lodge[] = [
     "category": "Eagle",
     "images": [
       {
-        "full": "/images-opt/eagle/20241118_132217.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241118_132217.jpg"
+        "full": "images-opt/eagle/20241118_132217.jpg",
+        "thumb": "images-opt/eagle/thumb/20241118_132217.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241118_132243.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241118_132243.jpg"
+        "full": "images-opt/eagle/20241118_132243.jpg",
+        "thumb": "images-opt/eagle/thumb/20241118_132243.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241118_132319.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241118_132319.jpg"
+        "full": "images-opt/eagle/20241118_132319.jpg",
+        "thumb": "images-opt/eagle/thumb/20241118_132319.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241118_132359.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241118_132359.jpg"
+        "full": "images-opt/eagle/20241118_132359.jpg",
+        "thumb": "images-opt/eagle/thumb/20241118_132359.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241118_132422.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241118_132422.jpg"
+        "full": "images-opt/eagle/20241118_132422.jpg",
+        "thumb": "images-opt/eagle/thumb/20241118_132422.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241118_132548.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241118_132548.jpg"
+        "full": "images-opt/eagle/20241118_132548.jpg",
+        "thumb": "images-opt/eagle/thumb/20241118_132548.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241118_132635.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241118_132635.jpg"
+        "full": "images-opt/eagle/20241118_132635.jpg",
+        "thumb": "images-opt/eagle/thumb/20241118_132635.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241118_132703.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241118_132703.jpg"
+        "full": "images-opt/eagle/20241118_132703.jpg",
+        "thumb": "images-opt/eagle/thumb/20241118_132703.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241118_132726.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241118_132726.jpg"
+        "full": "images-opt/eagle/20241118_132726.jpg",
+        "thumb": "images-opt/eagle/thumb/20241118_132726.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241218_114138.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241218_114138.jpg"
+        "full": "images-opt/eagle/20241218_114138.jpg",
+        "thumb": "images-opt/eagle/thumb/20241218_114138.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241218_114247.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241218_114247.jpg"
+        "full": "images-opt/eagle/20241218_114247.jpg",
+        "thumb": "images-opt/eagle/thumb/20241218_114247.jpg"
       },
       {
-        "full": "/images-opt/eagle/20241218_114343.jpg",
-        "thumb": "/images-opt/eagle/thumb/20241218_114343.jpg"
+        "full": "images-opt/eagle/20241218_114343.jpg",
+        "thumb": "images-opt/eagle/thumb/20241218_114343.jpg"
       },
       {
-        "full": "/images-opt/eagle/coral.jpg",
-        "thumb": "/images-opt/eagle/thumb/coral.jpg"
+        "full": "images-opt/eagle/coral.jpg",
+        "thumb": "images-opt/eagle/thumb/coral.jpg"
       },
       {
-        "full": "/images-opt/eagle/eagle9.jpg",
-        "thumb": "/images-opt/eagle/thumb/eagle9.jpg"
+        "full": "images-opt/eagle/eagle9.jpg",
+        "thumb": "images-opt/eagle/thumb/eagle9.jpg"
       },
       {
-        "full": "/images-opt/eagle/living-1.jpg",
-        "thumb": "/images-opt/eagle/thumb/living-1.jpg"
+        "full": "images-opt/eagle/living-1.jpg",
+        "thumb": "images-opt/eagle/thumb/living-1.jpg"
       },
       {
-        "full": "/images-opt/eagle/living-2.jpg",
-        "thumb": "/images-opt/eagle/thumb/living-2.jpg"
+        "full": "images-opt/eagle/living-2.jpg",
+        "thumb": "images-opt/eagle/thumb/living-2.jpg"
       },
       {
-        "full": "/images-opt/eagle/living.jpg",
-        "thumb": "/images-opt/eagle/thumb/living.jpg"
+        "full": "images-opt/eagle/living.jpg",
+        "thumb": "images-opt/eagle/thumb/living.jpg"
       }
     ]
   },
@@ -371,100 +371,100 @@ export const lodges: Lodge[] = [
     "category": "Grouse",
     "images": [
       {
-        "full": "/images-opt/grouse/20241118_133011.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133011.jpg"
+        "full": "images-opt/grouse/20241118_133011.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133011.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133035-2.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133035-2.jpg"
+        "full": "images-opt/grouse/20241118_133035-2.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133035-2.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133035.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133035.jpg"
+        "full": "images-opt/grouse/20241118_133035.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133035.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133041.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133041.jpg"
+        "full": "images-opt/grouse/20241118_133041.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133041.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133047.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133047.jpg"
+        "full": "images-opt/grouse/20241118_133047.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133047.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133114.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133114.jpg"
+        "full": "images-opt/grouse/20241118_133114.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133114.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133149-2.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133149-2.jpg"
+        "full": "images-opt/grouse/20241118_133149-2.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133149-2.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133149.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133149.jpg"
+        "full": "images-opt/grouse/20241118_133149.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133149.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133153.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133153.jpg"
+        "full": "images-opt/grouse/20241118_133153.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133153.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133223.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133223.jpg"
+        "full": "images-opt/grouse/20241118_133223.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133223.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133232-2.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133232-2.jpg"
+        "full": "images-opt/grouse/20241118_133232-2.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133232-2.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133232.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133232.jpg"
+        "full": "images-opt/grouse/20241118_133232.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133232.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133306.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133306.jpg"
+        "full": "images-opt/grouse/20241118_133306.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133306.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133346.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133346.jpg"
+        "full": "images-opt/grouse/20241118_133346.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133346.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133407.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133407.jpg"
+        "full": "images-opt/grouse/20241118_133407.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133407.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133437.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133437.jpg"
+        "full": "images-opt/grouse/20241118_133437.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133437.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133446.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133446.jpg"
+        "full": "images-opt/grouse/20241118_133446.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133446.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133503.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133503.jpg"
+        "full": "images-opt/grouse/20241118_133503.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133503.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133529.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133529.jpg"
+        "full": "images-opt/grouse/20241118_133529.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133529.jpg"
       },
       {
-        "full": "/images-opt/grouse/20241118_133613.jpg",
-        "thumb": "/images-opt/grouse/thumb/20241118_133613.jpg"
+        "full": "images-opt/grouse/20241118_133613.jpg",
+        "thumb": "images-opt/grouse/thumb/20241118_133613.jpg"
       },
       {
-        "full": "/images-opt/grouse/k.jpg",
-        "thumb": "/images-opt/grouse/thumb/k.jpg"
+        "full": "images-opt/grouse/k.jpg",
+        "thumb": "images-opt/grouse/thumb/k.jpg"
       },
       {
-        "full": "/images-opt/grouse/kitchin.jpg",
-        "thumb": "/images-opt/grouse/thumb/kitchin.jpg"
+        "full": "images-opt/grouse/kitchin.jpg",
+        "thumb": "images-opt/grouse/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/grouse/l.jpg",
-        "thumb": "/images-opt/grouse/thumb/l.jpg"
+        "full": "images-opt/grouse/l.jpg",
+        "thumb": "images-opt/grouse/thumb/l.jpg"
       },
       {
-        "full": "/images-opt/grouse/living-1_1.jpg",
-        "thumb": "/images-opt/grouse/thumb/living-1_1.jpg"
+        "full": "images-opt/grouse/living-1_1.jpg",
+        "thumb": "images-opt/grouse/thumb/living-1_1.jpg"
       }
     ]
   },
@@ -474,68 +474,68 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-1/20241115_111809.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20241115_111809.jpg"
+        "full": "images-opt/highland-lodge-1/20241115_111809.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20241115_111809.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20241115_111818.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20241115_111818.jpg"
+        "full": "images-opt/highland-lodge-1/20241115_111818.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20241115_111818.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20241115_111912.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20241115_111912.jpg"
+        "full": "images-opt/highland-lodge-1/20241115_111912.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20241115_111912.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20241115_111929.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20241115_111929.jpg"
+        "full": "images-opt/highland-lodge-1/20241115_111929.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20241115_111929.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20241115_111949.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20241115_111949.jpg"
+        "full": "images-opt/highland-lodge-1/20241115_111949.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20241115_111949.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20241115_111956.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20241115_111956.jpg"
+        "full": "images-opt/highland-lodge-1/20241115_111956.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20241115_111956.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20241115_112034.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20241115_112034.jpg"
+        "full": "images-opt/highland-lodge-1/20241115_112034.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20241115_112034.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20250113_103350-2.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20250113_103350-2.jpg"
+        "full": "images-opt/highland-lodge-1/20250113_103350-2.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20250113_103350-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20250113_103407-2.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20250113_103407-2.jpg"
+        "full": "images-opt/highland-lodge-1/20250113_103407-2.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20250113_103407-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20250424_114648.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20250424_114648.jpg"
+        "full": "images-opt/highland-lodge-1/20250424_114648.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20250424_114648.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/20250424_114702.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/20250424_114702.jpg"
+        "full": "images-opt/highland-lodge-1/20250424_114702.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/20250424_114702.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/kitchen.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/kitchen.jpg"
+        "full": "images-opt/highland-lodge-1/kitchen.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/kitchen.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/l2.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/l2.jpg"
+        "full": "images-opt/highland-lodge-1/l2.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/l2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/living-1.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/living-1.jpg"
+        "full": "images-opt/highland-lodge-1/living-1.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/living-1.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/living-1_1.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/living-1_1.jpg"
+        "full": "images-opt/highland-lodge-1/living-1_1.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/living-1_1.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-1/living-2.jpg",
-        "thumb": "/images-opt/highland-lodge-1/thumb/living-2.jpg"
+        "full": "images-opt/highland-lodge-1/living-2.jpg",
+        "thumb": "images-opt/highland-lodge-1/thumb/living-2.jpg"
       }
     ]
   },
@@ -545,56 +545,56 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-2/20241011_132149.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/20241011_132149.jpg"
+        "full": "images-opt/highland-lodge-2/20241011_132149.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/20241011_132149.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/20241011_132207.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/20241011_132207.jpg"
+        "full": "images-opt/highland-lodge-2/20241011_132207.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/20241011_132207.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/20241011_132246.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/20241011_132246.jpg"
+        "full": "images-opt/highland-lodge-2/20241011_132246.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/20241011_132246.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/20241011_132259.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/20241011_132259.jpg"
+        "full": "images-opt/highland-lodge-2/20241011_132259.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/20241011_132259.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/20241011_132311.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/20241011_132311.jpg"
+        "full": "images-opt/highland-lodge-2/20241011_132311.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/20241011_132311.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/20241218_114850-31.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/20241218_114850-31.jpg"
+        "full": "images-opt/highland-lodge-2/20241218_114850-31.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/20241218_114850-31.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/20250116_103821-2.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/20250116_103821-2.jpg"
+        "full": "images-opt/highland-lodge-2/20250116_103821-2.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/20250116_103821-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/conservatory-1.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/conservatory-1.jpg"
+        "full": "images-opt/highland-lodge-2/conservatory-1.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/conservatory-1.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/kitchin_1.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/kitchin_1.jpg"
+        "full": "images-opt/highland-lodge-2/kitchin_1.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/kitchin_1.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/l3.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/l3.jpg"
+        "full": "images-opt/highland-lodge-2/l3.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/l3.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/l5.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/l5.jpg"
+        "full": "images-opt/highland-lodge-2/l5.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/l5.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/living-2.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/living-2.jpg"
+        "full": "images-opt/highland-lodge-2/living-2.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/living-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-2/living-area.jpg",
-        "thumb": "/images-opt/highland-lodge-2/thumb/living-area.jpg"
+        "full": "images-opt/highland-lodge-2/living-area.jpg",
+        "thumb": "images-opt/highland-lodge-2/thumb/living-area.jpg"
       }
     ]
   },
@@ -604,64 +604,64 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-3/20241007_092551.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20241007_092551.jpg"
+        "full": "images-opt/highland-lodge-3/20241007_092551.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20241007_092551.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20241007_0925511.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20241007_0925511.jpg"
+        "full": "images-opt/highland-lodge-3/20241007_0925511.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20241007_0925511.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20241007_092601.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20241007_092601.jpg"
+        "full": "images-opt/highland-lodge-3/20241007_092601.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20241007_092601.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20241007_092648.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20241007_092648.jpg"
+        "full": "images-opt/highland-lodge-3/20241007_092648.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20241007_092648.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20241007_092702.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20241007_092702.jpg"
+        "full": "images-opt/highland-lodge-3/20241007_092702.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20241007_092702.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20241007_092712.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20241007_092712.jpg"
+        "full": "images-opt/highland-lodge-3/20241007_092712.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20241007_092712.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20241007_092722.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20241007_092722.jpg"
+        "full": "images-opt/highland-lodge-3/20241007_092722.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20241007_092722.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20241007_092727.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20241007_092727.jpg"
+        "full": "images-opt/highland-lodge-3/20241007_092727.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20241007_092727.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20241007_092838.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20241007_092838.jpg"
+        "full": "images-opt/highland-lodge-3/20241007_092838.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20241007_092838.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20250128_125652-2.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20250128_125652-2.jpg"
+        "full": "images-opt/highland-lodge-3/20250128_125652-2.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20250128_125652-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/20250128_125743-2-2.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/20250128_125743-2-2.jpg"
+        "full": "images-opt/highland-lodge-3/20250128_125743-2-2.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/20250128_125743-2-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-3/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/l6.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/l6.jpg"
+        "full": "images-opt/highland-lodge-3/l6.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/l6.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/living-.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/living-.jpg"
+        "full": "images-opt/highland-lodge-3/living-.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/living-.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-3/living-1.jpg",
-        "thumb": "/images-opt/highland-lodge-3/thumb/living-1.jpg"
+        "full": "images-opt/highland-lodge-3/living-1.jpg",
+        "thumb": "images-opt/highland-lodge-3/thumb/living-1.jpg"
       }
     ]
   },
@@ -671,60 +671,60 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-4/20241112_125915.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20241112_125915.jpg"
+        "full": "images-opt/highland-lodge-4/20241112_125915.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20241112_125915.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/20241112_125921.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20241112_125921.jpg"
+        "full": "images-opt/highland-lodge-4/20241112_125921.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20241112_125921.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/20241112_125937.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20241112_125937.jpg"
+        "full": "images-opt/highland-lodge-4/20241112_125937.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20241112_125937.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/20241112_130000.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20241112_130000.jpg"
+        "full": "images-opt/highland-lodge-4/20241112_130000.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20241112_130000.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/20241112_130038.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20241112_130038.jpg"
+        "full": "images-opt/highland-lodge-4/20241112_130038.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20241112_130038.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/20241112_130134.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20241112_130134.jpg"
+        "full": "images-opt/highland-lodge-4/20241112_130134.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20241112_130134.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/20241112_130153.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20241112_130153.jpg"
+        "full": "images-opt/highland-lodge-4/20241112_130153.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20241112_130153.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/20241127_111850.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20241127_111850.jpg"
+        "full": "images-opt/highland-lodge-4/20241127_111850.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20241127_111850.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/20250116_104121.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20250116_104121.jpg"
+        "full": "images-opt/highland-lodge-4/20250116_104121.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20250116_104121.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/20250116_111116-2.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/20250116_111116-2.jpg"
+        "full": "images-opt/highland-lodge-4/20250116_111116-2.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/20250116_111116-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/l2.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/l2.jpg"
+        "full": "images-opt/highland-lodge-4/l2.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/l2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/l7.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/l7.jpg"
+        "full": "images-opt/highland-lodge-4/l7.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/l7.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/living-.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/living-.jpg"
+        "full": "images-opt/highland-lodge-4/living-.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/living-.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-4/living-1.jpg",
-        "thumb": "/images-opt/highland-lodge-4/thumb/living-1.jpg"
+        "full": "images-opt/highland-lodge-4/living-1.jpg",
+        "thumb": "images-opt/highland-lodge-4/thumb/living-1.jpg"
       }
     ]
   },
@@ -734,56 +734,56 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-5/20241014_135945.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20241014_135945.jpg"
+        "full": "images-opt/highland-lodge-5/20241014_135945.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20241014_135945.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/20241014_140007.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20241014_140007.jpg"
+        "full": "images-opt/highland-lodge-5/20241014_140007.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20241014_140007.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/20241014_140028.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20241014_140028.jpg"
+        "full": "images-opt/highland-lodge-5/20241014_140028.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20241014_140028.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/20241014_140056.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20241014_140056.jpg"
+        "full": "images-opt/highland-lodge-5/20241014_140056.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20241014_140056.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/20241014_140106.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20241014_140106.jpg"
+        "full": "images-opt/highland-lodge-5/20241014_140106.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20241014_140106.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/20241014_140125.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20241014_140125.jpg"
+        "full": "images-opt/highland-lodge-5/20241014_140125.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20241014_140125.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/20241014_140217.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20241014_140217.jpg"
+        "full": "images-opt/highland-lodge-5/20241014_140217.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20241014_140217.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/20241014_140305.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20241014_140305.jpg"
+        "full": "images-opt/highland-lodge-5/20241014_140305.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20241014_140305.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/20250116_104325-2.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20250116_104325-2.jpg"
+        "full": "images-opt/highland-lodge-5/20250116_104325-2.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20250116_104325-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/20250116_104349-2.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/20250116_104349-2.jpg"
+        "full": "images-opt/highland-lodge-5/20250116_104349-2.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/20250116_104349-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/4.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/4.jpg"
+        "full": "images-opt/highland-lodge-5/4.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/4.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/6.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/6.jpg"
+        "full": "images-opt/highland-lodge-5/6.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/6.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-5/living_1.jpg",
-        "thumb": "/images-opt/highland-lodge-5/thumb/living_1.jpg"
+        "full": "images-opt/highland-lodge-5/living_1.jpg",
+        "thumb": "images-opt/highland-lodge-5/thumb/living_1.jpg"
       }
     ]
   },
@@ -793,76 +793,76 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-6/2.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/2.jpg"
+        "full": "images-opt/highland-lodge-6/2.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/20241127_112712.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/20241127_112712.jpg"
+        "full": "images-opt/highland-lodge-6/20241127_112712.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/20241127_112712.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/20241127_112744.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/20241127_112744.jpg"
+        "full": "images-opt/highland-lodge-6/20241127_112744.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/20241127_112744.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/20241127_113517.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/20241127_113517.jpg"
+        "full": "images-opt/highland-lodge-6/20241127_113517.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/20241127_113517.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/20241218_115427.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/20241218_115427.jpg"
+        "full": "images-opt/highland-lodge-6/20241218_115427.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/20241218_115427.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/20241218_115513.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/20241218_115513.jpg"
+        "full": "images-opt/highland-lodge-6/20241218_115513.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/20241218_115513.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/20250203_133515.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/20250203_133515.jpg"
+        "full": "images-opt/highland-lodge-6/20250203_133515.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/20250203_133515.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/20250203_133748.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/20250203_133748.jpg"
+        "full": "images-opt/highland-lodge-6/20250203_133748.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/20250203_133748.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/3.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/3.jpg"
+        "full": "images-opt/highland-lodge-6/3.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/3.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/4.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/4.jpg"
+        "full": "images-opt/highland-lodge-6/4.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/4.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/5.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/5.jpg"
+        "full": "images-opt/highland-lodge-6/5.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/5.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/8.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/8.jpg"
+        "full": "images-opt/highland-lodge-6/8.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/8.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/l4.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/l4.jpg"
+        "full": "images-opt/highland-lodge-6/l4.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/l4.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/living-.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/living-.jpg"
+        "full": "images-opt/highland-lodge-6/living-.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/living-.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/living-dining.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/living-dining.jpg"
+        "full": "images-opt/highland-lodge-6/living-dining.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/living-dining.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/living-kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/living-kitchin.jpg"
+        "full": "images-opt/highland-lodge-6/living-kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/living-kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/living-kitchin1.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/living-kitchin1.jpg"
+        "full": "images-opt/highland-lodge-6/living-kitchin1.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/living-kitchin1.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-6/living-kitchin2.jpg",
-        "thumb": "/images-opt/highland-lodge-6/thumb/living-kitchin2.jpg"
+        "full": "images-opt/highland-lodge-6/living-kitchin2.jpg",
+        "thumb": "images-opt/highland-lodge-6/thumb/living-kitchin2.jpg"
       }
     ]
   },
@@ -872,68 +872,68 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-7/1yu.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/1yu.jpg"
+        "full": "images-opt/highland-lodge-7/1yu.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/1yu.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20241107_110609.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20241107_110609.jpg"
+        "full": "images-opt/highland-lodge-7/20241107_110609.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20241107_110609.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20241107_110617.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20241107_110617.jpg"
+        "full": "images-opt/highland-lodge-7/20241107_110617.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20241107_110617.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20241107_110640.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20241107_110640.jpg"
+        "full": "images-opt/highland-lodge-7/20241107_110640.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20241107_110640.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20241107_110726.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20241107_110726.jpg"
+        "full": "images-opt/highland-lodge-7/20241107_110726.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20241107_110726.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20241107_110748.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20241107_110748.jpg"
+        "full": "images-opt/highland-lodge-7/20241107_110748.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20241107_110748.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20241107_110803.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20241107_110803.jpg"
+        "full": "images-opt/highland-lodge-7/20241107_110803.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20241107_110803.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20241107_110958.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20241107_110958.jpg"
+        "full": "images-opt/highland-lodge-7/20241107_110958.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20241107_110958.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20241107_111021.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20241107_111021.jpg"
+        "full": "images-opt/highland-lodge-7/20241107_111021.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20241107_111021.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20241107_111208.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20241107_111208.jpg"
+        "full": "images-opt/highland-lodge-7/20241107_111208.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20241107_111208.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20250120_132300.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20250120_132300.jpg"
+        "full": "images-opt/highland-lodge-7/20250120_132300.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20250120_132300.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/20250120_135104.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/20250120_135104.jpg"
+        "full": "images-opt/highland-lodge-7/20250120_135104.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/20250120_135104.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-7/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/kitchin_living.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/kitchin_living.jpg"
+        "full": "images-opt/highland-lodge-7/kitchin_living.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/kitchin_living.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/living.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/living.jpg"
+        "full": "images-opt/highland-lodge-7/living.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/living.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-7/livingg-2.jpg",
-        "thumb": "/images-opt/highland-lodge-7/thumb/livingg-2.jpg"
+        "full": "images-opt/highland-lodge-7/livingg-2.jpg",
+        "thumb": "images-opt/highland-lodge-7/thumb/livingg-2.jpg"
       }
     ]
   },
@@ -943,48 +943,48 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-8/20241022_131148-2.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20241022_131148-2.jpg"
+        "full": "images-opt/highland-lodge-8/20241022_131148-2.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20241022_131148-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20241022_131213.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20241022_131213.jpg"
+        "full": "images-opt/highland-lodge-8/20241022_131213.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20241022_131213.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20241022_131226.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20241022_131226.jpg"
+        "full": "images-opt/highland-lodge-8/20241022_131226.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20241022_131226.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20241022_131233.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20241022_131233.jpg"
+        "full": "images-opt/highland-lodge-8/20241022_131233.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20241022_131233.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20241022_131259.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20241022_131259.jpg"
+        "full": "images-opt/highland-lodge-8/20241022_131259.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20241022_131259.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20241022_131326.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20241022_131326.jpg"
+        "full": "images-opt/highland-lodge-8/20241022_131326.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20241022_131326.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20241022_131637.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20241022_131637.jpg"
+        "full": "images-opt/highland-lodge-8/20241022_131637.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20241022_131637.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20241127_114523.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20241127_114523.jpg"
+        "full": "images-opt/highland-lodge-8/20241127_114523.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20241127_114523.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20250114_125052-2.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20250114_125052-2.jpg"
+        "full": "images-opt/highland-lodge-8/20250114_125052-2.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20250114_125052-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20250114_130140-3.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20250114_130140-3.jpg"
+        "full": "images-opt/highland-lodge-8/20250114_130140-3.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20250114_130140-3.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-8/20250116_105406.jpg",
-        "thumb": "/images-opt/highland-lodge-8/thumb/20250116_105406.jpg"
+        "full": "images-opt/highland-lodge-8/20250116_105406.jpg",
+        "thumb": "images-opt/highland-lodge-8/thumb/20250116_105406.jpg"
       }
     ]
   },
@@ -994,56 +994,56 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-9/20241112_124432.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_124432.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_124432.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_124432.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_124443.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_124443.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_124443.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_124443.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_124509.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_124509.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_124509.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_124509.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_124524.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_124524.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_124524.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_124524.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_124621.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_124621.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_124621.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_124621.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_124636.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_124636.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_124636.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_124636.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_124658.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_124658.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_124658.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_124658.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_125459.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_125459.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_125459.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_125459.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_125530.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_125530.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_125530.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_125530.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_125555-2.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_125555-2.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_125555-2.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_125555-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_125555.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_125555.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_125555.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_125555.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_125629.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_125629.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_125629.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_125629.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-9/20241112_125638.jpg",
-        "thumb": "/images-opt/highland-lodge-9/thumb/20241112_125638.jpg"
+        "full": "images-opt/highland-lodge-9/20241112_125638.jpg",
+        "thumb": "images-opt/highland-lodge-9/thumb/20241112_125638.jpg"
       }
     ]
   },
@@ -1053,64 +1053,64 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-32/20241007_131619.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20241007_131619.jpg"
+        "full": "images-opt/highland-lodge-32/20241007_131619.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20241007_131619.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20241007_131656.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20241007_131656.jpg"
+        "full": "images-opt/highland-lodge-32/20241007_131656.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20241007_131656.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20241007_131856.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20241007_131856.jpg"
+        "full": "images-opt/highland-lodge-32/20241007_131856.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20241007_131856.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20241007_131909.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20241007_131909.jpg"
+        "full": "images-opt/highland-lodge-32/20241007_131909.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20241007_131909.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20241007_131921.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20241007_131921.jpg"
+        "full": "images-opt/highland-lodge-32/20241007_131921.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20241007_131921.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20241007_131945.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20241007_131945.jpg"
+        "full": "images-opt/highland-lodge-32/20241007_131945.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20241007_131945.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20241007_132043-2.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20241007_132043-2.jpg"
+        "full": "images-opt/highland-lodge-32/20241007_132043-2.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20241007_132043-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20241007_132117-2.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20241007_132117-2.jpg"
+        "full": "images-opt/highland-lodge-32/20241007_132117-2.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20241007_132117-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20250131_142014-2.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20250131_142014-2.jpg"
+        "full": "images-opt/highland-lodge-32/20250131_142014-2.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20250131_142014-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20250131_142159.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20250131_142159.jpg"
+        "full": "images-opt/highland-lodge-32/20250131_142159.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20250131_142159.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/20250131_142215.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/20250131_142215.jpg"
+        "full": "images-opt/highland-lodge-32/20250131_142215.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/20250131_142215.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-32/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/living1.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/living1.jpg"
+        "full": "images-opt/highland-lodge-32/living1.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/living1.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/living2.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/living2.jpg"
+        "full": "images-opt/highland-lodge-32/living2.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/living2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-32/living3.jpg",
-        "thumb": "/images-opt/highland-lodge-32/thumb/living3.jpg"
+        "full": "images-opt/highland-lodge-32/living3.jpg",
+        "thumb": "images-opt/highland-lodge-32/thumb/living3.jpg"
       }
     ]
   },
@@ -1120,52 +1120,52 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-33/20241112_135252.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20241112_135252.jpg"
+        "full": "images-opt/highland-lodge-33/20241112_135252.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20241112_135252.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/20241112_135310.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20241112_135310.jpg"
+        "full": "images-opt/highland-lodge-33/20241112_135310.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20241112_135310.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/20241112_135333.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20241112_135333.jpg"
+        "full": "images-opt/highland-lodge-33/20241112_135333.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20241112_135333.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/20241112_135351-2.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20241112_135351-2.jpg"
+        "full": "images-opt/highland-lodge-33/20241112_135351-2.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20241112_135351-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/20241112_135407.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20241112_135407.jpg"
+        "full": "images-opt/highland-lodge-33/20241112_135407.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20241112_135407.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/20241112_135455.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20241112_135455.jpg"
+        "full": "images-opt/highland-lodge-33/20241112_135455.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20241112_135455.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/20241112_135521.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20241112_135521.jpg"
+        "full": "images-opt/highland-lodge-33/20241112_135521.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20241112_135521.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/20250219_100948-2.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20250219_100948-2.jpg"
+        "full": "images-opt/highland-lodge-33/20250219_100948-2.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20250219_100948-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/20250219_101009-3.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20250219_101009-3.jpg"
+        "full": "images-opt/highland-lodge-33/20250219_101009-3.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20250219_101009-3.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/20250219_101121-2.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/20250219_101121-2.jpg"
+        "full": "images-opt/highland-lodge-33/20250219_101121-2.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/20250219_101121-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/k1.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/k1.jpg"
+        "full": "images-opt/highland-lodge-33/k1.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/k1.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-33/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-33/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-33/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-33/thumb/kitchin.jpg"
       }
     ]
   },
@@ -1175,52 +1175,52 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-34/20241107_114310.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20241107_114310.jpg"
+        "full": "images-opt/highland-lodge-34/20241107_114310.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20241107_114310.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20241107_114534.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20241107_114534.jpg"
+        "full": "images-opt/highland-lodge-34/20241107_114534.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20241107_114534.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20241107_114627.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20241107_114627.jpg"
+        "full": "images-opt/highland-lodge-34/20241107_114627.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20241107_114627.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20241107_114651.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20241107_114651.jpg"
+        "full": "images-opt/highland-lodge-34/20241107_114651.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20241107_114651.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20241107_114832-(2).jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20241107_114832-(2).jpg"
+        "full": "images-opt/highland-lodge-34/20241107_114832-(2).jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20241107_114832-(2).jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20241107_114837.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20241107_114837.jpg"
+        "full": "images-opt/highland-lodge-34/20241107_114837.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20241107_114837.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20241107_114938-3.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20241107_114938-3.jpg"
+        "full": "images-opt/highland-lodge-34/20241107_114938-3.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20241107_114938-3.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20241127_120313-2.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20241127_120313-2.jpg"
+        "full": "images-opt/highland-lodge-34/20241127_120313-2.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20241127_120313-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20241127_120338-2.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20241127_120338-2.jpg"
+        "full": "images-opt/highland-lodge-34/20241127_120338-2.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20241127_120338-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20250121_130243.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20250121_130243.jpg"
+        "full": "images-opt/highland-lodge-34/20250121_130243.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20250121_130243.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20250121_130413.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20250121_130413.jpg"
+        "full": "images-opt/highland-lodge-34/20250121_130413.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20250121_130413.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-34/20250121_130644.jpg",
-        "thumb": "/images-opt/highland-lodge-34/thumb/20250121_130644.jpg"
+        "full": "images-opt/highland-lodge-34/20250121_130644.jpg",
+        "thumb": "images-opt/highland-lodge-34/thumb/20250121_130644.jpg"
       }
     ]
   },
@@ -1230,44 +1230,44 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-35/20240926_113534-2.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20240926_113534-2.jpg"
+        "full": "images-opt/highland-lodge-35/20240926_113534-2.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20240926_113534-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-35/20240926_113628-3.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20240926_113628-3.jpg"
+        "full": "images-opt/highland-lodge-35/20240926_113628-3.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20240926_113628-3.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-35/20240926_113844.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20240926_113844.jpg"
+        "full": "images-opt/highland-lodge-35/20240926_113844.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20240926_113844.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-35/20240926_113907.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20240926_113907.jpg"
+        "full": "images-opt/highland-lodge-35/20240926_113907.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20240926_113907.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-35/20240926_113945-2.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20240926_113945-2.jpg"
+        "full": "images-opt/highland-lodge-35/20240926_113945-2.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20240926_113945-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-35/20240926_114135.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20240926_114135.jpg"
+        "full": "images-opt/highland-lodge-35/20240926_114135.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20240926_114135.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-35/20241127_122412.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20241127_122412.jpg"
+        "full": "images-opt/highland-lodge-35/20241127_122412.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20241127_122412.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-35/20250121_114254.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20250121_114254.jpg"
+        "full": "images-opt/highland-lodge-35/20250121_114254.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20250121_114254.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-35/20250121_114309.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20250121_114309.jpg"
+        "full": "images-opt/highland-lodge-35/20250121_114309.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20250121_114309.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-35/20250121_114330-2.jpg",
-        "thumb": "/images-opt/highland-lodge-35/thumb/20250121_114330-2.jpg"
+        "full": "images-opt/highland-lodge-35/20250121_114330-2.jpg",
+        "thumb": "images-opt/highland-lodge-35/thumb/20250121_114330-2.jpg"
       }
     ]
   },
@@ -1277,48 +1277,48 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-36/20241016_140849.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20241016_140849.jpg"
+        "full": "images-opt/highland-lodge-36/20241016_140849.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20241016_140849.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20241016_140946.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20241016_140946.jpg"
+        "full": "images-opt/highland-lodge-36/20241016_140946.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20241016_140946.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20241016_141004.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20241016_141004.jpg"
+        "full": "images-opt/highland-lodge-36/20241016_141004.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20241016_141004.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20241016_141033.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20241016_141033.jpg"
+        "full": "images-opt/highland-lodge-36/20241016_141033.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20241016_141033.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20241016_141053.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20241016_141053.jpg"
+        "full": "images-opt/highland-lodge-36/20241016_141053.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20241016_141053.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20241016_141128.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20241016_141128.jpg"
+        "full": "images-opt/highland-lodge-36/20241016_141128.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20241016_141128.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20241016_141202.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20241016_141202.jpg"
+        "full": "images-opt/highland-lodge-36/20241016_141202.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20241016_141202.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20241127_123020.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20241127_123020.jpg"
+        "full": "images-opt/highland-lodge-36/20241127_123020.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20241127_123020.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20241127_123038.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20241127_123038.jpg"
+        "full": "images-opt/highland-lodge-36/20241127_123038.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20241127_123038.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20250121_114600.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20250121_114600.jpg"
+        "full": "images-opt/highland-lodge-36/20250121_114600.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20250121_114600.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-36/20250121_114634.jpg",
-        "thumb": "/images-opt/highland-lodge-36/thumb/20250121_114634.jpg"
+        "full": "images-opt/highland-lodge-36/20250121_114634.jpg",
+        "thumb": "images-opt/highland-lodge-36/thumb/20250121_114634.jpg"
       }
     ]
   },
@@ -1328,40 +1328,40 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-37/20241112_132551.jpg",
-        "thumb": "/images-opt/highland-lodge-37/thumb/20241112_132551.jpg"
+        "full": "images-opt/highland-lodge-37/20241112_132551.jpg",
+        "thumb": "images-opt/highland-lodge-37/thumb/20241112_132551.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-37/20241112_132748.jpg",
-        "thumb": "/images-opt/highland-lodge-37/thumb/20241112_132748.jpg"
+        "full": "images-opt/highland-lodge-37/20241112_132748.jpg",
+        "thumb": "images-opt/highland-lodge-37/thumb/20241112_132748.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-37/20241112_132800.jpg",
-        "thumb": "/images-opt/highland-lodge-37/thumb/20241112_132800.jpg"
+        "full": "images-opt/highland-lodge-37/20241112_132800.jpg",
+        "thumb": "images-opt/highland-lodge-37/thumb/20241112_132800.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-37/20250113_140139-2.jpg",
-        "thumb": "/images-opt/highland-lodge-37/thumb/20250113_140139-2.jpg"
+        "full": "images-opt/highland-lodge-37/20250113_140139-2.jpg",
+        "thumb": "images-opt/highland-lodge-37/thumb/20250113_140139-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-37/20250128_110131.jpg",
-        "thumb": "/images-opt/highland-lodge-37/thumb/20250128_110131.jpg"
+        "full": "images-opt/highland-lodge-37/20250128_110131.jpg",
+        "thumb": "images-opt/highland-lodge-37/thumb/20250128_110131.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-37/k7.jpg",
-        "thumb": "/images-opt/highland-lodge-37/thumb/k7.jpg"
+        "full": "images-opt/highland-lodge-37/k7.jpg",
+        "thumb": "images-opt/highland-lodge-37/thumb/k7.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-37/k9.jpg",
-        "thumb": "/images-opt/highland-lodge-37/thumb/k9.jpg"
+        "full": "images-opt/highland-lodge-37/k9.jpg",
+        "thumb": "images-opt/highland-lodge-37/thumb/k9.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-37/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-37/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-37/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-37/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-37/living-3.jpg",
-        "thumb": "/images-opt/highland-lodge-37/thumb/living-3.jpg"
+        "full": "images-opt/highland-lodge-37/living-3.jpg",
+        "thumb": "images-opt/highland-lodge-37/thumb/living-3.jpg"
       }
     ]
   },
@@ -1371,48 +1371,48 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-38/20241021_125826.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/20241021_125826.jpg"
+        "full": "images-opt/highland-lodge-38/20241021_125826.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/20241021_125826.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/20241021_1258261.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/20241021_1258261.jpg"
+        "full": "images-opt/highland-lodge-38/20241021_1258261.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/20241021_1258261.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/20241021_125838.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/20241021_125838.jpg"
+        "full": "images-opt/highland-lodge-38/20241021_125838.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/20241021_125838.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/20241021_125859.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/20241021_125859.jpg"
+        "full": "images-opt/highland-lodge-38/20241021_125859.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/20241021_125859.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/20241021_125915.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/20241021_125915.jpg"
+        "full": "images-opt/highland-lodge-38/20241021_125915.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/20241021_125915.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/20241021_125930.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/20241021_125930.jpg"
+        "full": "images-opt/highland-lodge-38/20241021_125930.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/20241021_125930.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/20250128_105259.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/20250128_105259.jpg"
+        "full": "images-opt/highland-lodge-38/20250128_105259.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/20250128_105259.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/20250128_105658.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/20250128_105658.jpg"
+        "full": "images-opt/highland-lodge-38/20250128_105658.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/20250128_105658.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/k1.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/k1.jpg"
+        "full": "images-opt/highland-lodge-38/k1.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/k1.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/k2.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/k2.jpg"
+        "full": "images-opt/highland-lodge-38/k2.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/k2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-38/k3.jpg",
-        "thumb": "/images-opt/highland-lodge-38/thumb/k3.jpg"
+        "full": "images-opt/highland-lodge-38/k3.jpg",
+        "thumb": "images-opt/highland-lodge-38/thumb/k3.jpg"
       }
     ]
   },
@@ -1422,32 +1422,32 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-39/20240926_114802.jpg",
-        "thumb": "/images-opt/highland-lodge-39/thumb/20240926_114802.jpg"
+        "full": "images-opt/highland-lodge-39/20240926_114802.jpg",
+        "thumb": "images-opt/highland-lodge-39/thumb/20240926_114802.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-39/20250114_121413.jpg",
-        "thumb": "/images-opt/highland-lodge-39/thumb/20250114_121413.jpg"
+        "full": "images-opt/highland-lodge-39/20250114_121413.jpg",
+        "thumb": "images-opt/highland-lodge-39/thumb/20250114_121413.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-39/20250114_121641.jpg",
-        "thumb": "/images-opt/highland-lodge-39/thumb/20250114_121641.jpg"
+        "full": "images-opt/highland-lodge-39/20250114_121641.jpg",
+        "thumb": "images-opt/highland-lodge-39/thumb/20250114_121641.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-39/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-39/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-39/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-39/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-39/l.jpg",
-        "thumb": "/images-opt/highland-lodge-39/thumb/l.jpg"
+        "full": "images-opt/highland-lodge-39/l.jpg",
+        "thumb": "images-opt/highland-lodge-39/thumb/l.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-39/living.jpg",
-        "thumb": "/images-opt/highland-lodge-39/thumb/living.jpg"
+        "full": "images-opt/highland-lodge-39/living.jpg",
+        "thumb": "images-opt/highland-lodge-39/thumb/living.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-39/living1.jpg",
-        "thumb": "/images-opt/highland-lodge-39/thumb/living1.jpg"
+        "full": "images-opt/highland-lodge-39/living1.jpg",
+        "thumb": "images-opt/highland-lodge-39/thumb/living1.jpg"
       }
     ]
   },
@@ -1457,68 +1457,68 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-40/20240926_115306.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20240926_115306.jpg"
+        "full": "images-opt/highland-lodge-40/20240926_115306.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20240926_115306.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20240926_115339.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20240926_115339.jpg"
+        "full": "images-opt/highland-lodge-40/20240926_115339.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20240926_115339.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20240926_115512.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20240926_115512.jpg"
+        "full": "images-opt/highland-lodge-40/20240926_115512.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20240926_115512.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20240926_115544.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20240926_115544.jpg"
+        "full": "images-opt/highland-lodge-40/20240926_115544.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20240926_115544.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20240926_115630.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20240926_115630.jpg"
+        "full": "images-opt/highland-lodge-40/20240926_115630.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20240926_115630.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20240926_115647.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20240926_115647.jpg"
+        "full": "images-opt/highland-lodge-40/20240926_115647.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20240926_115647.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20241107_113606.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20241107_113606.jpg"
+        "full": "images-opt/highland-lodge-40/20241107_113606.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20241107_113606.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20241107_113751.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20241107_113751.jpg"
+        "full": "images-opt/highland-lodge-40/20241107_113751.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20241107_113751.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20241107_113825.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20241107_113825.jpg"
+        "full": "images-opt/highland-lodge-40/20241107_113825.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20241107_113825.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20241107_113840.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20241107_113840.jpg"
+        "full": "images-opt/highland-lodge-40/20241107_113840.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20241107_113840.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/20250113_140446.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/20250113_140446.jpg"
+        "full": "images-opt/highland-lodge-40/20250113_140446.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/20250113_140446.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-40/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/l1.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/l1.jpg"
+        "full": "images-opt/highland-lodge-40/l1.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/l1.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/l2.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/l2.jpg"
+        "full": "images-opt/highland-lodge-40/l2.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/l2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/l3.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/l3.jpg"
+        "full": "images-opt/highland-lodge-40/l3.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/l3.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-40/living.jpg",
-        "thumb": "/images-opt/highland-lodge-40/thumb/living.jpg"
+        "full": "images-opt/highland-lodge-40/living.jpg",
+        "thumb": "images-opt/highland-lodge-40/thumb/living.jpg"
       }
     ]
   },
@@ -1528,68 +1528,68 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-41/20241007_132621.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_132621.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_132621.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_132621.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_132631.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_132631.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_132631.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_132631.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_132718.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_132718.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_132718.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_132718.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_132837.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_132837.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_132837.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_132837.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_132857.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_132857.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_132857.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_132857.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_132922.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_132922.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_132922.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_132922.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_132952.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_132952.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_132952.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_132952.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_133012.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_133012.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_133012.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_133012.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_133018.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_133018.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_133018.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_133018.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_133044.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_133044.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_133044.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_133044.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20241007_133105.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20241007_133105.jpg"
+        "full": "images-opt/highland-lodge-41/20241007_133105.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20241007_133105.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20250131_135051.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20250131_135051.jpg"
+        "full": "images-opt/highland-lodge-41/20250131_135051.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20250131_135051.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20250131_135146.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20250131_135146.jpg"
+        "full": "images-opt/highland-lodge-41/20250131_135146.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20250131_135146.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/20250131_141511.jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/20250131_141511.jpg"
+        "full": "images-opt/highland-lodge-41/20250131_141511.jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/20250131_141511.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/received_128638375038021-(2).jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/received_128638375038021-(2).jpg"
+        "full": "images-opt/highland-lodge-41/received_128638375038021-(2).jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/received_128638375038021-(2).jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-41/received_128638375038021-(3).jpg",
-        "thumb": "/images-opt/highland-lodge-41/thumb/received_128638375038021-(3).jpg"
+        "full": "images-opt/highland-lodge-41/received_128638375038021-(3).jpg",
+        "thumb": "images-opt/highland-lodge-41/thumb/received_128638375038021-(3).jpg"
       }
     ]
   },
@@ -1599,68 +1599,68 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-42/20241007_132621.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_132621.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_132621.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_132621.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_132631.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_132631.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_132631.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_132631.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_132718.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_132718.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_132718.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_132718.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_132837.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_132837.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_132837.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_132837.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_132857.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_132857.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_132857.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_132857.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_132922.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_132922.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_132922.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_132922.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_132952.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_132952.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_132952.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_132952.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_133012.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_133012.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_133012.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_133012.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_133018.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_133018.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_133018.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_133018.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_133044.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_133044.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_133044.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_133044.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20241007_133105.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20241007_133105.jpg"
+        "full": "images-opt/highland-lodge-42/20241007_133105.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20241007_133105.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20250131_135051.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20250131_135051.jpg"
+        "full": "images-opt/highland-lodge-42/20250131_135051.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20250131_135051.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20250131_135146.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20250131_135146.jpg"
+        "full": "images-opt/highland-lodge-42/20250131_135146.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20250131_135146.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/20250131_141511.jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/20250131_141511.jpg"
+        "full": "images-opt/highland-lodge-42/20250131_141511.jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/20250131_141511.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/received_128638375038021-(2).jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/received_128638375038021-(2).jpg"
+        "full": "images-opt/highland-lodge-42/received_128638375038021-(2).jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/received_128638375038021-(2).jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-42/received_128638375038021-(3).jpg",
-        "thumb": "/images-opt/highland-lodge-42/thumb/received_128638375038021-(3).jpg"
+        "full": "images-opt/highland-lodge-42/received_128638375038021-(3).jpg",
+        "thumb": "images-opt/highland-lodge-42/thumb/received_128638375038021-(3).jpg"
       }
     ]
   },
@@ -1670,56 +1670,56 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-43/20241011_133249.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/20241011_133249.jpg"
+        "full": "images-opt/highland-lodge-43/20241011_133249.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/20241011_133249.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/20241011_133326.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/20241011_133326.jpg"
+        "full": "images-opt/highland-lodge-43/20241011_133326.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/20241011_133326.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/20241011_133354.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/20241011_133354.jpg"
+        "full": "images-opt/highland-lodge-43/20241011_133354.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/20241011_133354.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/20241011_133406.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/20241011_133406.jpg"
+        "full": "images-opt/highland-lodge-43/20241011_133406.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/20241011_133406.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/20241011_133422-2.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/20241011_133422-2.jpg"
+        "full": "images-opt/highland-lodge-43/20241011_133422-2.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/20241011_133422-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/20241011_133439.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/20241011_133439.jpg"
+        "full": "images-opt/highland-lodge-43/20241011_133439.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/20241011_133439.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/20241011_133536.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/20241011_133536.jpg"
+        "full": "images-opt/highland-lodge-43/20241011_133536.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/20241011_133536.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/20241011_133606.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/20241011_133606.jpg"
+        "full": "images-opt/highland-lodge-43/20241011_133606.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/20241011_133606.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/20250114_122207-2.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/20250114_122207-2.jpg"
+        "full": "images-opt/highland-lodge-43/20250114_122207-2.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/20250114_122207-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-43/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/l4.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/l4.jpg"
+        "full": "images-opt/highland-lodge-43/l4.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/l4.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/l5.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/l5.jpg"
+        "full": "images-opt/highland-lodge-43/l5.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/l5.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-43/living.jpg",
-        "thumb": "/images-opt/highland-lodge-43/thumb/living.jpg"
+        "full": "images-opt/highland-lodge-43/living.jpg",
+        "thumb": "images-opt/highland-lodge-43/thumb/living.jpg"
       }
     ]
   },
@@ -1729,52 +1729,52 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-44/20211105_145415.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20211105_145415.jpg"
+        "full": "images-opt/highland-lodge-44/20211105_145415.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20211105_145415.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/20211105_145431.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20211105_145431.jpg"
+        "full": "images-opt/highland-lodge-44/20211105_145431.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20211105_145431.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/20211105_145657.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20211105_145657.jpg"
+        "full": "images-opt/highland-lodge-44/20211105_145657.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20211105_145657.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/20211105_145936.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20211105_145936.jpg"
+        "full": "images-opt/highland-lodge-44/20211105_145936.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20211105_145936.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/20211105_150101.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20211105_150101.jpg"
+        "full": "images-opt/highland-lodge-44/20211105_150101.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20211105_150101.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/20211105_150114.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20211105_150114.jpg"
+        "full": "images-opt/highland-lodge-44/20211105_150114.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20211105_150114.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/20241112_131927.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20241112_131927.jpg"
+        "full": "images-opt/highland-lodge-44/20241112_131927.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20241112_131927.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/20241112_131952-2.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20241112_131952-2.jpg"
+        "full": "images-opt/highland-lodge-44/20241112_131952-2.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20241112_131952-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/20241210_115421-2.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20241210_115421-2.jpg"
+        "full": "images-opt/highland-lodge-44/20241210_115421-2.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20241210_115421-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/20241210_115616.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/20241210_115616.jpg"
+        "full": "images-opt/highland-lodge-44/20241210_115616.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/20241210_115616.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/bedroom2.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/bedroom2.jpg"
+        "full": "images-opt/highland-lodge-44/bedroom2.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/bedroom2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-44/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-44/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-44/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-44/thumb/kitchin.jpg"
       }
     ]
   },
@@ -1784,56 +1784,56 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-45/20211105_145415.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20211105_145415.jpg"
+        "full": "images-opt/highland-lodge-45/20211105_145415.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20211105_145415.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20211105_145431.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20211105_145431.jpg"
+        "full": "images-opt/highland-lodge-45/20211105_145431.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20211105_145431.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20211105_145657.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20211105_145657.jpg"
+        "full": "images-opt/highland-lodge-45/20211105_145657.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20211105_145657.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20211105_145936.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20211105_145936.jpg"
+        "full": "images-opt/highland-lodge-45/20211105_145936.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20211105_145936.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20211105_150101.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20211105_150101.jpg"
+        "full": "images-opt/highland-lodge-45/20211105_150101.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20211105_150101.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20211105_150114.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20211105_150114.jpg"
+        "full": "images-opt/highland-lodge-45/20211105_150114.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20211105_150114.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20241112_131927.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20241112_131927.jpg"
+        "full": "images-opt/highland-lodge-45/20241112_131927.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20241112_131927.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20241112_131952-2.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20241112_131952-2.jpg"
+        "full": "images-opt/highland-lodge-45/20241112_131952-2.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20241112_131952-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20241210_115421-2.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20241210_115421-2.jpg"
+        "full": "images-opt/highland-lodge-45/20241210_115421-2.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20241210_115421-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20241210_115616.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20241210_115616.jpg"
+        "full": "images-opt/highland-lodge-45/20241210_115616.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20241210_115616.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/20250204_102911-2.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/20250204_102911-2.jpg"
+        "full": "images-opt/highland-lodge-45/20250204_102911-2.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/20250204_102911-2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/bedroom2.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/bedroom2.jpg"
+        "full": "images-opt/highland-lodge-45/bedroom2.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/bedroom2.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-45/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-45/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-45/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-45/thumb/kitchin.jpg"
       }
     ]
   },
@@ -1843,52 +1843,52 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-46/20241002_135600.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20241002_135600.jpg"
+        "full": "images-opt/highland-lodge-46/20241002_135600.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20241002_135600.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20241002_135626.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20241002_135626.jpg"
+        "full": "images-opt/highland-lodge-46/20241002_135626.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20241002_135626.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20241002_135724.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20241002_135724.jpg"
+        "full": "images-opt/highland-lodge-46/20241002_135724.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20241002_135724.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20241002_135852.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20241002_135852.jpg"
+        "full": "images-opt/highland-lodge-46/20241002_135852.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20241002_135852.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20241107_112954.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20241107_112954.jpg"
+        "full": "images-opt/highland-lodge-46/20241107_112954.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20241107_112954.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20241107_113007.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20241107_113007.jpg"
+        "full": "images-opt/highland-lodge-46/20241107_113007.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20241107_113007.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20241107_113103.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20241107_113103.jpg"
+        "full": "images-opt/highland-lodge-46/20241107_113103.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20241107_113103.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20241107_113122.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20241107_113122.jpg"
+        "full": "images-opt/highland-lodge-46/20241107_113122.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20241107_113122.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20241107_113136.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20241107_113136.jpg"
+        "full": "images-opt/highland-lodge-46/20241107_113136.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20241107_113136.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20250114_122854.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20250114_122854.jpg"
+        "full": "images-opt/highland-lodge-46/20250114_122854.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20250114_122854.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20250114_122918.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20250114_122918.jpg"
+        "full": "images-opt/highland-lodge-46/20250114_122918.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20250114_122918.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-46/20250204_102911-2.jpg",
-        "thumb": "/images-opt/highland-lodge-46/thumb/20250204_102911-2.jpg"
+        "full": "images-opt/highland-lodge-46/20250204_102911-2.jpg",
+        "thumb": "images-opt/highland-lodge-46/thumb/20250204_102911-2.jpg"
       }
     ]
   },
@@ -1898,60 +1898,60 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133449.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133449.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133449.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133449.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133508.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133508.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133508.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133508.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133548.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133548.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133548.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133548.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133633.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133633.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133633.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133633.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133646.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133646.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133646.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133646.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133728.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133728.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133728.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133728.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133833.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133833.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133833.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133833.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133846.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133846.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133846.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133846.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133913.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133913.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133913.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133913.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/20241007_133931.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/20241007_133931.jpg"
+        "full": "images-opt/highland-lodge-47/20241007_133931.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/20241007_133931.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-47/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/l6.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/l6.jpg"
+        "full": "images-opt/highland-lodge-47/l6.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/l6.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/l8.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/l8.jpg"
+        "full": "images-opt/highland-lodge-47/l8.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/l8.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-47/living.jpg",
-        "thumb": "/images-opt/highland-lodge-47/thumb/living.jpg"
+        "full": "images-opt/highland-lodge-47/living.jpg",
+        "thumb": "images-opt/highland-lodge-47/thumb/living.jpg"
       }
     ]
   },
@@ -1961,64 +1961,64 @@ export const lodges: Lodge[] = [
     "category": "Highland Lodge",
     "images": [
       {
-        "full": "/images-opt/highland-lodge-48/20241021_124646.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_124646.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_124646.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_124646.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_124657.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_124657.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_124657.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_124657.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_124724.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_124724.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_124724.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_124724.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_124730.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_124730.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_124730.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_124730.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_124828.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_124828.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_124828.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_124828.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_124835.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_124835.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_124835.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_124835.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_124843.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_124843.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_124843.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_124843.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_124905.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_124905.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_124905.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_124905.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_124939.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_124939.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_124939.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_124939.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_125001.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_125001.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_125001.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_125001.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_125125.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_125125.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_125125.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_125125.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/20241021_125138.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/20241021_125138.jpg"
+        "full": "images-opt/highland-lodge-48/20241021_125138.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/20241021_125138.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/kitchin.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/kitchin.jpg"
+        "full": "images-opt/highland-lodge-48/kitchin.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/l9.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/l9.jpg"
+        "full": "images-opt/highland-lodge-48/l9.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/l9.jpg"
       },
       {
-        "full": "/images-opt/highland-lodge-48/living.jpg",
-        "thumb": "/images-opt/highland-lodge-48/thumb/living.jpg"
+        "full": "images-opt/highland-lodge-48/living.jpg",
+        "thumb": "images-opt/highland-lodge-48/thumb/living.jpg"
       }
     ]
   },
@@ -2028,56 +2028,56 @@ export const lodges: Lodge[] = [
     "category": "Lochside",
     "images": [
       {
-        "full": "/images-opt/lochside-1/20240927_133920.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20240927_133920.jpg"
+        "full": "images-opt/lochside-1/20240927_133920.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20240927_133920.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20240927_133930.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20240927_133930.jpg"
+        "full": "images-opt/lochside-1/20240927_133930.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20240927_133930.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20240927_134125.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20240927_134125.jpg"
+        "full": "images-opt/lochside-1/20240927_134125.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20240927_134125.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20240927_134222.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20240927_134222.jpg"
+        "full": "images-opt/lochside-1/20240927_134222.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20240927_134222.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20240927_134246.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20240927_134246.jpg"
+        "full": "images-opt/lochside-1/20240927_134246.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20240927_134246.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20240927_134255.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20240927_134255.jpg"
+        "full": "images-opt/lochside-1/20240927_134255.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20240927_134255.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20240927_134310.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20240927_134310.jpg"
+        "full": "images-opt/lochside-1/20240927_134310.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20240927_134310.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20241209_122148.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20241209_122148.jpg"
+        "full": "images-opt/lochside-1/20241209_122148.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20241209_122148.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20241209_122200.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20241209_122200.jpg"
+        "full": "images-opt/lochside-1/20241209_122200.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20241209_122200.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20241209_122220.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20241209_122220.jpg"
+        "full": "images-opt/lochside-1/20241209_122220.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20241209_122220.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20250113_113616.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20250113_113616.jpg"
+        "full": "images-opt/lochside-1/20250113_113616.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20250113_113616.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/20250113_113947.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/20250113_113947.jpg"
+        "full": "images-opt/lochside-1/20250113_113947.jpg",
+        "thumb": "images-opt/lochside-1/thumb/20250113_113947.jpg"
       },
       {
-        "full": "/images-opt/lochside-1/ls1-view-to-garden.jpg",
-        "thumb": "/images-opt/lochside-1/thumb/ls1-view-to-garden.jpg"
+        "full": "images-opt/lochside-1/ls1-view-to-garden.jpg",
+        "thumb": "images-opt/lochside-1/thumb/ls1-view-to-garden.jpg"
       }
     ]
   },
@@ -2087,64 +2087,64 @@ export const lodges: Lodge[] = [
     "category": "Lochside",
     "images": [
       {
-        "full": "/images-opt/lochside-2/20240927_135610.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135610.jpg"
+        "full": "images-opt/lochside-2/20240927_135610.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135610.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135621.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135621.jpg"
+        "full": "images-opt/lochside-2/20240927_135621.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135621.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135628.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135628.jpg"
+        "full": "images-opt/lochside-2/20240927_135628.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135628.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135637.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135637.jpg"
+        "full": "images-opt/lochside-2/20240927_135637.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135637.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135650.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135650.jpg"
+        "full": "images-opt/lochside-2/20240927_135650.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135650.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135720.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135720.jpg"
+        "full": "images-opt/lochside-2/20240927_135720.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135720.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135731.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135731.jpg"
+        "full": "images-opt/lochside-2/20240927_135731.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135731.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135811.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135811.jpg"
+        "full": "images-opt/lochside-2/20240927_135811.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135811.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135818.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135818.jpg"
+        "full": "images-opt/lochside-2/20240927_135818.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135818.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135858.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135858.jpg"
+        "full": "images-opt/lochside-2/20240927_135858.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135858.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135912.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135912.jpg"
+        "full": "images-opt/lochside-2/20240927_135912.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135912.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_135929.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_135929.jpg"
+        "full": "images-opt/lochside-2/20240927_135929.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_135929.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_140010.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_140010.jpg"
+        "full": "images-opt/lochside-2/20240927_140010.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_140010.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/20240927_140037.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/20240927_140037.jpg"
+        "full": "images-opt/lochside-2/20240927_140037.jpg",
+        "thumb": "images-opt/lochside-2/thumb/20240927_140037.jpg"
       },
       {
-        "full": "/images-opt/lochside-2/l2.jpg",
-        "thumb": "/images-opt/lochside-2/thumb/l2.jpg"
+        "full": "images-opt/lochside-2/l2.jpg",
+        "thumb": "images-opt/lochside-2/thumb/l2.jpg"
       }
     ]
   },
@@ -2154,48 +2154,48 @@ export const lodges: Lodge[] = [
     "category": "Lochside",
     "images": [
       {
-        "full": "/images-opt/lochside-3/20241007_093748.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20241007_093748.jpg"
+        "full": "images-opt/lochside-3/20241007_093748.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20241007_093748.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20241007_093854.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20241007_093854.jpg"
+        "full": "images-opt/lochside-3/20241007_093854.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20241007_093854.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20241007_093933.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20241007_093933.jpg"
+        "full": "images-opt/lochside-3/20241007_093933.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20241007_093933.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20241007_094052.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20241007_094052.jpg"
+        "full": "images-opt/lochside-3/20241007_094052.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20241007_094052.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20241007_094124.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20241007_094124.jpg"
+        "full": "images-opt/lochside-3/20241007_094124.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20241007_094124.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20241007_094218-2.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20241007_094218-2.jpg"
+        "full": "images-opt/lochside-3/20241007_094218-2.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20241007_094218-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20250204_134833-2.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20250204_134833-2.jpg"
+        "full": "images-opt/lochside-3/20250204_134833-2.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20250204_134833-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20250204_134854-2.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20250204_134854-2.jpg"
+        "full": "images-opt/lochside-3/20250204_134854-2.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20250204_134854-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20250204_134921-2.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20250204_134921-2.jpg"
+        "full": "images-opt/lochside-3/20250204_134921-2.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20250204_134921-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20250204_135132-2.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20250204_135132-2.jpg"
+        "full": "images-opt/lochside-3/20250204_135132-2.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20250204_135132-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-3/20250204_135152.jpg",
-        "thumb": "/images-opt/lochside-3/thumb/20250204_135152.jpg"
+        "full": "images-opt/lochside-3/20250204_135152.jpg",
+        "thumb": "images-opt/lochside-3/thumb/20250204_135152.jpg"
       }
     ]
   },
@@ -2205,52 +2205,52 @@ export const lodges: Lodge[] = [
     "category": "Lochside",
     "images": [
       {
-        "full": "/images-opt/lochside-4/20240927_140311.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140311.jpg"
+        "full": "images-opt/lochside-4/20240927_140311.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140311.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20240927_140334.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140334.jpg"
+        "full": "images-opt/lochside-4/20240927_140334.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140334.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20240927_140340.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140340.jpg"
+        "full": "images-opt/lochside-4/20240927_140340.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140340.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20240927_140421.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140421.jpg"
+        "full": "images-opt/lochside-4/20240927_140421.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140421.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20240927_140441-2.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140441-2.jpg"
+        "full": "images-opt/lochside-4/20240927_140441-2.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140441-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20240927_140529.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140529.jpg"
+        "full": "images-opt/lochside-4/20240927_140529.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140529.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20240927_140544.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140544.jpg"
+        "full": "images-opt/lochside-4/20240927_140544.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140544.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20240927_140647.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140647.jpg"
+        "full": "images-opt/lochside-4/20240927_140647.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140647.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20240927_140655.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140655.jpg"
+        "full": "images-opt/lochside-4/20240927_140655.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140655.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20240927_140708.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20240927_140708.jpg"
+        "full": "images-opt/lochside-4/20240927_140708.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20240927_140708.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20250204_140117.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20250204_140117.jpg"
+        "full": "images-opt/lochside-4/20250204_140117.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20250204_140117.jpg"
       },
       {
-        "full": "/images-opt/lochside-4/20250204_140251.jpg",
-        "thumb": "/images-opt/lochside-4/thumb/20250204_140251.jpg"
+        "full": "images-opt/lochside-4/20250204_140251.jpg",
+        "thumb": "images-opt/lochside-4/thumb/20250204_140251.jpg"
       }
     ]
   },
@@ -2260,32 +2260,32 @@ export const lodges: Lodge[] = [
     "category": "Lochside",
     "images": [
       {
-        "full": "/images-opt/lochside-5/20240927_141753.jpg",
-        "thumb": "/images-opt/lochside-5/thumb/20240927_141753.jpg"
+        "full": "images-opt/lochside-5/20240927_141753.jpg",
+        "thumb": "images-opt/lochside-5/thumb/20240927_141753.jpg"
       },
       {
-        "full": "/images-opt/lochside-5/20240927_141808.jpg",
-        "thumb": "/images-opt/lochside-5/thumb/20240927_141808.jpg"
+        "full": "images-opt/lochside-5/20240927_141808.jpg",
+        "thumb": "images-opt/lochside-5/thumb/20240927_141808.jpg"
       },
       {
-        "full": "/images-opt/lochside-5/20240927_141950.jpg",
-        "thumb": "/images-opt/lochside-5/thumb/20240927_141950.jpg"
+        "full": "images-opt/lochside-5/20240927_141950.jpg",
+        "thumb": "images-opt/lochside-5/thumb/20240927_141950.jpg"
       },
       {
-        "full": "/images-opt/lochside-5/20250115_093412-2.jpg",
-        "thumb": "/images-opt/lochside-5/thumb/20250115_093412-2.jpg"
+        "full": "images-opt/lochside-5/20250115_093412-2.jpg",
+        "thumb": "images-opt/lochside-5/thumb/20250115_093412-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-5/20250204_135820.jpg",
-        "thumb": "/images-opt/lochside-5/thumb/20250204_135820.jpg"
+        "full": "images-opt/lochside-5/20250204_135820.jpg",
+        "thumb": "images-opt/lochside-5/thumb/20250204_135820.jpg"
       },
       {
-        "full": "/images-opt/lochside-5/20250204_135845.jpg",
-        "thumb": "/images-opt/lochside-5/thumb/20250204_135845.jpg"
+        "full": "images-opt/lochside-5/20250204_135845.jpg",
+        "thumb": "images-opt/lochside-5/thumb/20250204_135845.jpg"
       },
       {
-        "full": "/images-opt/lochside-5/20250204_135859.jpg",
-        "thumb": "/images-opt/lochside-5/thumb/20250204_135859.jpg"
+        "full": "images-opt/lochside-5/20250204_135859.jpg",
+        "thumb": "images-opt/lochside-5/thumb/20250204_135859.jpg"
       }
     ]
   },
@@ -2295,60 +2295,60 @@ export const lodges: Lodge[] = [
     "category": "Lochside",
     "images": [
       {
-        "full": "/images-opt/lochside-6/20241010_103339.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20241010_103339.jpg"
+        "full": "images-opt/lochside-6/20241010_103339.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20241010_103339.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/20241010_103345.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20241010_103345.jpg"
+        "full": "images-opt/lochside-6/20241010_103345.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20241010_103345.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/20241010_103351.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20241010_103351.jpg"
+        "full": "images-opt/lochside-6/20241010_103351.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20241010_103351.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/20241010_104024.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20241010_104024.jpg"
+        "full": "images-opt/lochside-6/20241010_104024.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20241010_104024.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/20241010_104139-2.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20241010_104139-2.jpg"
+        "full": "images-opt/lochside-6/20241010_104139-2.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20241010_104139-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/20241010_104210.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20241010_104210.jpg"
+        "full": "images-opt/lochside-6/20241010_104210.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20241010_104210.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/20250204_140654-2.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20250204_140654-2.jpg"
+        "full": "images-opt/lochside-6/20250204_140654-2.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20250204_140654-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/20250204_140830-2.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20250204_140830-2.jpg"
+        "full": "images-opt/lochside-6/20250204_140830-2.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20250204_140830-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/20250204_140849.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20250204_140849.jpg"
+        "full": "images-opt/lochside-6/20250204_140849.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20250204_140849.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/20250204_141147.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/20250204_141147.jpg"
+        "full": "images-opt/lochside-6/20250204_141147.jpg",
+        "thumb": "images-opt/lochside-6/thumb/20250204_141147.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/kitchin.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/kitchin.jpg"
+        "full": "images-opt/lochside-6/kitchin.jpg",
+        "thumb": "images-opt/lochside-6/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/l7.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/l7.jpg"
+        "full": "images-opt/lochside-6/l7.jpg",
+        "thumb": "images-opt/lochside-6/thumb/l7.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/l8.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/l8.jpg"
+        "full": "images-opt/lochside-6/l8.jpg",
+        "thumb": "images-opt/lochside-6/thumb/l8.jpg"
       },
       {
-        "full": "/images-opt/lochside-6/living-.jpg",
-        "thumb": "/images-opt/lochside-6/thumb/living-.jpg"
+        "full": "images-opt/lochside-6/living-.jpg",
+        "thumb": "images-opt/lochside-6/thumb/living-.jpg"
       }
     ]
   },
@@ -2358,32 +2358,32 @@ export const lodges: Lodge[] = [
     "category": "Lochside",
     "images": [
       {
-        "full": "/images-opt/lochside-7/20240927_142108.jpg",
-        "thumb": "/images-opt/lochside-7/thumb/20240927_142108.jpg"
+        "full": "images-opt/lochside-7/20240927_142108.jpg",
+        "thumb": "images-opt/lochside-7/thumb/20240927_142108.jpg"
       },
       {
-        "full": "/images-opt/lochside-7/20240927_142151.jpg",
-        "thumb": "/images-opt/lochside-7/thumb/20240927_142151.jpg"
+        "full": "images-opt/lochside-7/20240927_142151.jpg",
+        "thumb": "images-opt/lochside-7/thumb/20240927_142151.jpg"
       },
       {
-        "full": "/images-opt/lochside-7/20240927_142225.jpg",
-        "thumb": "/images-opt/lochside-7/thumb/20240927_142225.jpg"
+        "full": "images-opt/lochside-7/20240927_142225.jpg",
+        "thumb": "images-opt/lochside-7/thumb/20240927_142225.jpg"
       },
       {
-        "full": "/images-opt/lochside-7/20240927_142246.jpg",
-        "thumb": "/images-opt/lochside-7/thumb/20240927_142246.jpg"
+        "full": "images-opt/lochside-7/20240927_142246.jpg",
+        "thumb": "images-opt/lochside-7/thumb/20240927_142246.jpg"
       },
       {
-        "full": "/images-opt/lochside-7/20240927_142301.jpg",
-        "thumb": "/images-opt/lochside-7/thumb/20240927_142301.jpg"
+        "full": "images-opt/lochside-7/20240927_142301.jpg",
+        "thumb": "images-opt/lochside-7/thumb/20240927_142301.jpg"
       },
       {
-        "full": "/images-opt/lochside-7/20240927_142309-2.jpg",
-        "thumb": "/images-opt/lochside-7/thumb/20240927_142309-2.jpg"
+        "full": "images-opt/lochside-7/20240927_142309-2.jpg",
+        "thumb": "images-opt/lochside-7/thumb/20240927_142309-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-7/20241010_103351.jpg",
-        "thumb": "/images-opt/lochside-7/thumb/20241010_103351.jpg"
+        "full": "images-opt/lochside-7/20241010_103351.jpg",
+        "thumb": "images-opt/lochside-7/thumb/20241010_103351.jpg"
       }
     ]
   },
@@ -2393,28 +2393,28 @@ export const lodges: Lodge[] = [
     "category": "Lochside",
     "images": [
       {
-        "full": "/images-opt/lochside-8/20240927_142428.jpg",
-        "thumb": "/images-opt/lochside-8/thumb/20240927_142428.jpg"
+        "full": "images-opt/lochside-8/20240927_142428.jpg",
+        "thumb": "images-opt/lochside-8/thumb/20240927_142428.jpg"
       },
       {
-        "full": "/images-opt/lochside-8/20240927_142451---copy.jpg",
-        "thumb": "/images-opt/lochside-8/thumb/20240927_142451---copy.jpg"
+        "full": "images-opt/lochside-8/20240927_142451---copy.jpg",
+        "thumb": "images-opt/lochside-8/thumb/20240927_142451---copy.jpg"
       },
       {
-        "full": "/images-opt/lochside-8/20240927_142652-2.jpg",
-        "thumb": "/images-opt/lochside-8/thumb/20240927_142652-2.jpg"
+        "full": "images-opt/lochside-8/20240927_142652-2.jpg",
+        "thumb": "images-opt/lochside-8/thumb/20240927_142652-2.jpg"
       },
       {
-        "full": "/images-opt/lochside-8/img_3633.jpg",
-        "thumb": "/images-opt/lochside-8/thumb/img_3633.jpg"
+        "full": "images-opt/lochside-8/img_3633.jpg",
+        "thumb": "images-opt/lochside-8/thumb/img_3633.jpg"
       },
       {
-        "full": "/images-opt/lochside-8/living-.jpg",
-        "thumb": "/images-opt/lochside-8/thumb/living-.jpg"
+        "full": "images-opt/lochside-8/living-.jpg",
+        "thumb": "images-opt/lochside-8/thumb/living-.jpg"
       },
       {
-        "full": "/images-opt/lochside-8/living-1.jpg",
-        "thumb": "/images-opt/lochside-8/thumb/living-1.jpg"
+        "full": "images-opt/lochside-8/living-1.jpg",
+        "thumb": "images-opt/lochside-8/thumb/living-1.jpg"
       }
     ]
   },
@@ -2424,132 +2424,132 @@ export const lodges: Lodge[] = [
     "category": "Osprey",
     "images": [
       {
-        "full": "/images-opt/osprey/20241209_125255.jpg",
-        "thumb": "/images-opt/osprey/thumb/20241209_125255.jpg"
+        "full": "images-opt/osprey/20241209_125255.jpg",
+        "thumb": "images-opt/osprey/thumb/20241209_125255.jpg"
       },
       {
-        "full": "/images-opt/osprey/20241209_125302.jpg",
-        "thumb": "/images-opt/osprey/thumb/20241209_125302.jpg"
+        "full": "images-opt/osprey/20241209_125302.jpg",
+        "thumb": "images-opt/osprey/thumb/20241209_125302.jpg"
       },
       {
-        "full": "/images-opt/osprey/20241209_125333.jpg",
-        "thumb": "/images-opt/osprey/thumb/20241209_125333.jpg"
+        "full": "images-opt/osprey/20241209_125333.jpg",
+        "thumb": "images-opt/osprey/thumb/20241209_125333.jpg"
       },
       {
-        "full": "/images-opt/osprey/20241209_125342.jpg",
-        "thumb": "/images-opt/osprey/thumb/20241209_125342.jpg"
+        "full": "images-opt/osprey/20241209_125342.jpg",
+        "thumb": "images-opt/osprey/thumb/20241209_125342.jpg"
       },
       {
-        "full": "/images-opt/osprey/20241209_125442.jpg",
-        "thumb": "/images-opt/osprey/thumb/20241209_125442.jpg"
+        "full": "images-opt/osprey/20241209_125442.jpg",
+        "thumb": "images-opt/osprey/thumb/20241209_125442.jpg"
       },
       {
-        "full": "/images-opt/osprey/20241209_125448.jpg",
-        "thumb": "/images-opt/osprey/thumb/20241209_125448.jpg"
+        "full": "images-opt/osprey/20241209_125448.jpg",
+        "thumb": "images-opt/osprey/thumb/20241209_125448.jpg"
       },
       {
-        "full": "/images-opt/osprey/20241209_125505.jpg",
-        "thumb": "/images-opt/osprey/thumb/20241209_125505.jpg"
+        "full": "images-opt/osprey/20241209_125505.jpg",
+        "thumb": "images-opt/osprey/thumb/20241209_125505.jpg"
       },
       {
-        "full": "/images-opt/osprey/20250131_133906.jpg",
-        "thumb": "/images-opt/osprey/thumb/20250131_133906.jpg"
+        "full": "images-opt/osprey/20250131_133906.jpg",
+        "thumb": "images-opt/osprey/thumb/20250131_133906.jpg"
       },
       {
-        "full": "/images-opt/osprey/20250131_133918.jpg",
-        "thumb": "/images-opt/osprey/thumb/20250131_133918.jpg"
+        "full": "images-opt/osprey/20250131_133918.jpg",
+        "thumb": "images-opt/osprey/thumb/20250131_133918.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0245(1).jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0245(1).jpg"
+        "full": "images-opt/osprey/_16y0245(1).jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0245(1).jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0254(1).jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0254(1).jpg"
+        "full": "images-opt/osprey/_16y0254(1).jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0254(1).jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0268(1).jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0268(1).jpg"
+        "full": "images-opt/osprey/_16y0268(1).jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0268(1).jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0291-edit.jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0291-edit.jpg"
+        "full": "images-opt/osprey/_16y0291-edit.jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0291-edit.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0304-edit1.jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0304-edit1.jpg"
+        "full": "images-opt/osprey/_16y0304-edit1.jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0304-edit1.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0312-edit.jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0312-edit.jpg"
+        "full": "images-opt/osprey/_16y0312-edit.jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0312-edit.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0323.jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0323.jpg"
+        "full": "images-opt/osprey/_16y0323.jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0323.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0324.jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0324.jpg"
+        "full": "images-opt/osprey/_16y0324.jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0324.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y03241.jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y03241.jpg"
+        "full": "images-opt/osprey/_16y03241.jpg",
+        "thumb": "images-opt/osprey/thumb/_16y03241.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0345.jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0345.jpg"
+        "full": "images-opt/osprey/_16y0345.jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0345.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0352.jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0352.jpg"
+        "full": "images-opt/osprey/_16y0352.jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0352.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0355.jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0355.jpg"
+        "full": "images-opt/osprey/_16y0355.jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0355.jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0361_1(1).jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0361_1(1).jpg"
+        "full": "images-opt/osprey/_16y0361_1(1).jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0361_1(1).jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0374(1).jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0374(1).jpg"
+        "full": "images-opt/osprey/_16y0374(1).jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0374(1).jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0382-edit(1).jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0382-edit(1).jpg"
+        "full": "images-opt/osprey/_16y0382-edit(1).jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0382-edit(1).jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0382-edit(7).jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0382-edit(7).jpg"
+        "full": "images-opt/osprey/_16y0382-edit(7).jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0382-edit(7).jpg"
       },
       {
-        "full": "/images-opt/osprey/_16y0392(1).jpg",
-        "thumb": "/images-opt/osprey/thumb/_16y0392(1).jpg"
+        "full": "images-opt/osprey/_16y0392(1).jpg",
+        "thumb": "images-opt/osprey/thumb/_16y0392(1).jpg"
       },
       {
-        "full": "/images-opt/osprey/img_6813.jpg",
-        "thumb": "/images-opt/osprey/thumb/img_6813.jpg"
+        "full": "images-opt/osprey/img_6813.jpg",
+        "thumb": "images-opt/osprey/thumb/img_6813.jpg"
       },
       {
-        "full": "/images-opt/osprey/kitchin.jpg",
-        "thumb": "/images-opt/osprey/thumb/kitchin.jpg"
+        "full": "images-opt/osprey/kitchin.jpg",
+        "thumb": "images-opt/osprey/thumb/kitchin.jpg"
       },
       {
-        "full": "/images-opt/osprey/l3.jpg",
-        "thumb": "/images-opt/osprey/thumb/l3.jpg"
+        "full": "images-opt/osprey/l3.jpg",
+        "thumb": "images-opt/osprey/thumb/l3.jpg"
       },
       {
-        "full": "/images-opt/osprey/l4.jpg",
-        "thumb": "/images-opt/osprey/thumb/l4.jpg"
+        "full": "images-opt/osprey/l4.jpg",
+        "thumb": "images-opt/osprey/thumb/l4.jpg"
       },
       {
-        "full": "/images-opt/osprey/l5.jpg",
-        "thumb": "/images-opt/osprey/thumb/l5.jpg"
+        "full": "images-opt/osprey/l5.jpg",
+        "thumb": "images-opt/osprey/thumb/l5.jpg"
       },
       {
-        "full": "/images-opt/osprey/l6.jpg",
-        "thumb": "/images-opt/osprey/thumb/l6.jpg"
+        "full": "images-opt/osprey/l6.jpg",
+        "thumb": "images-opt/osprey/thumb/l6.jpg"
       }
     ]
   },
@@ -2559,64 +2559,64 @@ export const lodges: Lodge[] = [
     "category": "Otter",
     "images": [
       {
-        "full": "/images-opt/otter-1/20250403_113034.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113034.jpg"
+        "full": "images-opt/otter-1/20250403_113034.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113034.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113051.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113051.jpg"
+        "full": "images-opt/otter-1/20250403_113051.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113051.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113101.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113101.jpg"
+        "full": "images-opt/otter-1/20250403_113101.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113101.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113117.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113117.jpg"
+        "full": "images-opt/otter-1/20250403_113117.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113117.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113213.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113213.jpg"
+        "full": "images-opt/otter-1/20250403_113213.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113213.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113234.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113234.jpg"
+        "full": "images-opt/otter-1/20250403_113234.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113234.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113253.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113253.jpg"
+        "full": "images-opt/otter-1/20250403_113253.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113253.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113306.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113306.jpg"
+        "full": "images-opt/otter-1/20250403_113306.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113306.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113314.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113314.jpg"
+        "full": "images-opt/otter-1/20250403_113314.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113314.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113323.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113323.jpg"
+        "full": "images-opt/otter-1/20250403_113323.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113323.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113336.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113336.jpg"
+        "full": "images-opt/otter-1/20250403_113336.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113336.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113353.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113353.jpg"
+        "full": "images-opt/otter-1/20250403_113353.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113353.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113452.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113452.jpg"
+        "full": "images-opt/otter-1/20250403_113452.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113452.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113508.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113508.jpg"
+        "full": "images-opt/otter-1/20250403_113508.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113508.jpg"
       },
       {
-        "full": "/images-opt/otter-1/20250403_113536.jpg",
-        "thumb": "/images-opt/otter-1/thumb/20250403_113536.jpg"
+        "full": "images-opt/otter-1/20250403_113536.jpg",
+        "thumb": "images-opt/otter-1/thumb/20250403_113536.jpg"
       }
     ]
   },
@@ -2626,44 +2626,44 @@ export const lodges: Lodge[] = [
     "category": "Otter",
     "images": [
       {
-        "full": "/images-opt/otter-2/20241002_143001.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241002_143001.jpg"
+        "full": "images-opt/otter-2/20241002_143001.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241002_143001.jpg"
       },
       {
-        "full": "/images-opt/otter-2/20241002_143026.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241002_143026.jpg"
+        "full": "images-opt/otter-2/20241002_143026.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241002_143026.jpg"
       },
       {
-        "full": "/images-opt/otter-2/20241002_143050.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241002_143050.jpg"
+        "full": "images-opt/otter-2/20241002_143050.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241002_143050.jpg"
       },
       {
-        "full": "/images-opt/otter-2/20241002_143112.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241002_143112.jpg"
+        "full": "images-opt/otter-2/20241002_143112.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241002_143112.jpg"
       },
       {
-        "full": "/images-opt/otter-2/20241002_143129.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241002_143129.jpg"
+        "full": "images-opt/otter-2/20241002_143129.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241002_143129.jpg"
       },
       {
-        "full": "/images-opt/otter-2/20241002_143143.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241002_143143.jpg"
+        "full": "images-opt/otter-2/20241002_143143.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241002_143143.jpg"
       },
       {
-        "full": "/images-opt/otter-2/20241002_143153.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241002_143153.jpg"
+        "full": "images-opt/otter-2/20241002_143153.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241002_143153.jpg"
       },
       {
-        "full": "/images-opt/otter-2/20241002_143203.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241002_143203.jpg"
+        "full": "images-opt/otter-2/20241002_143203.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241002_143203.jpg"
       },
       {
-        "full": "/images-opt/otter-2/20241218_112459.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241218_112459.jpg"
+        "full": "images-opt/otter-2/20241218_112459.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241218_112459.jpg"
       },
       {
-        "full": "/images-opt/otter-2/20241218_112511.jpg",
-        "thumb": "/images-opt/otter-2/thumb/20241218_112511.jpg"
+        "full": "images-opt/otter-2/20241218_112511.jpg",
+        "thumb": "images-opt/otter-2/thumb/20241218_112511.jpg"
       }
     ]
   },
@@ -2673,104 +2673,104 @@ export const lodges: Lodge[] = [
     "category": "Otter",
     "images": [
       {
-        "full": "/images-opt/otter-3/20250331_090854.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_090854.jpg"
+        "full": "images-opt/otter-3/20250331_090854.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_090854.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_090926.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_090926.jpg"
+        "full": "images-opt/otter-3/20250331_090926.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_090926.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_090933.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_090933.jpg"
+        "full": "images-opt/otter-3/20250331_090933.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_090933.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_091109.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_091109.jpg"
+        "full": "images-opt/otter-3/20250331_091109.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_091109.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_091310.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_091310.jpg"
+        "full": "images-opt/otter-3/20250331_091310.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_091310.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_091720.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_091720.jpg"
+        "full": "images-opt/otter-3/20250331_091720.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_091720.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_091724.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_091724.jpg"
+        "full": "images-opt/otter-3/20250331_091724.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_091724.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_091750.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_091750.jpg"
+        "full": "images-opt/otter-3/20250331_091750.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_091750.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_091819.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_091819.jpg"
+        "full": "images-opt/otter-3/20250331_091819.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_091819.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_091821.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_091821.jpg"
+        "full": "images-opt/otter-3/20250331_091821.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_091821.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092006.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092006.jpg"
+        "full": "images-opt/otter-3/20250331_092006.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092006.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092137.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092137.jpg"
+        "full": "images-opt/otter-3/20250331_092137.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092137.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092150.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092150.jpg"
+        "full": "images-opt/otter-3/20250331_092150.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092150.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092209.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092209.jpg"
+        "full": "images-opt/otter-3/20250331_092209.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092209.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092250.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092250.jpg"
+        "full": "images-opt/otter-3/20250331_092250.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092250.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092307.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092307.jpg"
+        "full": "images-opt/otter-3/20250331_092307.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092307.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092312.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092312.jpg"
+        "full": "images-opt/otter-3/20250331_092312.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092312.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092319.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092319.jpg"
+        "full": "images-opt/otter-3/20250331_092319.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092319.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092337.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092337.jpg"
+        "full": "images-opt/otter-3/20250331_092337.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092337.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092401.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092401.jpg"
+        "full": "images-opt/otter-3/20250331_092401.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092401.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092404.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092404.jpg"
+        "full": "images-opt/otter-3/20250331_092404.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092404.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092417.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092417.jpg"
+        "full": "images-opt/otter-3/20250331_092417.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092417.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092603.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092603.jpg"
+        "full": "images-opt/otter-3/20250331_092603.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092603.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092615.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092615.jpg"
+        "full": "images-opt/otter-3/20250331_092615.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092615.jpg"
       },
       {
-        "full": "/images-opt/otter-3/20250331_092653.jpg",
-        "thumb": "/images-opt/otter-3/thumb/20250331_092653.jpg"
+        "full": "images-opt/otter-3/20250331_092653.jpg",
+        "thumb": "images-opt/otter-3/thumb/20250331_092653.jpg"
       }
     ]
   },
@@ -2780,44 +2780,44 @@ export const lodges: Lodge[] = [
     "category": "Otter",
     "images": [
       {
-        "full": "/images-opt/otter-4/20241002_143001.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241002_143001.jpg"
+        "full": "images-opt/otter-4/20241002_143001.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241002_143001.jpg"
       },
       {
-        "full": "/images-opt/otter-4/20241002_143026.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241002_143026.jpg"
+        "full": "images-opt/otter-4/20241002_143026.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241002_143026.jpg"
       },
       {
-        "full": "/images-opt/otter-4/20241002_143050.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241002_143050.jpg"
+        "full": "images-opt/otter-4/20241002_143050.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241002_143050.jpg"
       },
       {
-        "full": "/images-opt/otter-4/20241002_143112.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241002_143112.jpg"
+        "full": "images-opt/otter-4/20241002_143112.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241002_143112.jpg"
       },
       {
-        "full": "/images-opt/otter-4/20241002_143129.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241002_143129.jpg"
+        "full": "images-opt/otter-4/20241002_143129.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241002_143129.jpg"
       },
       {
-        "full": "/images-opt/otter-4/20241002_143143.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241002_143143.jpg"
+        "full": "images-opt/otter-4/20241002_143143.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241002_143143.jpg"
       },
       {
-        "full": "/images-opt/otter-4/20241002_143153.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241002_143153.jpg"
+        "full": "images-opt/otter-4/20241002_143153.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241002_143153.jpg"
       },
       {
-        "full": "/images-opt/otter-4/20241002_143203.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241002_143203.jpg"
+        "full": "images-opt/otter-4/20241002_143203.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241002_143203.jpg"
       },
       {
-        "full": "/images-opt/otter-4/20241218_112459.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241218_112459.jpg"
+        "full": "images-opt/otter-4/20241218_112459.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241218_112459.jpg"
       },
       {
-        "full": "/images-opt/otter-4/20241218_112511.jpg",
-        "thumb": "/images-opt/otter-4/thumb/20241218_112511.jpg"
+        "full": "images-opt/otter-4/20241218_112511.jpg",
+        "thumb": "images-opt/otter-4/thumb/20241218_112511.jpg"
       }
     ]
   },
@@ -2827,64 +2827,64 @@ export const lodges: Lodge[] = [
     "category": "Otter",
     "images": [
       {
-        "full": "/images-opt/otter-5/20250403_113034.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113034.jpg"
+        "full": "images-opt/otter-5/20250403_113034.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113034.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113051.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113051.jpg"
+        "full": "images-opt/otter-5/20250403_113051.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113051.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113101.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113101.jpg"
+        "full": "images-opt/otter-5/20250403_113101.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113101.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113117.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113117.jpg"
+        "full": "images-opt/otter-5/20250403_113117.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113117.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113213.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113213.jpg"
+        "full": "images-opt/otter-5/20250403_113213.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113213.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113234.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113234.jpg"
+        "full": "images-opt/otter-5/20250403_113234.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113234.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113253.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113253.jpg"
+        "full": "images-opt/otter-5/20250403_113253.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113253.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113306.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113306.jpg"
+        "full": "images-opt/otter-5/20250403_113306.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113306.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113314.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113314.jpg"
+        "full": "images-opt/otter-5/20250403_113314.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113314.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113323.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113323.jpg"
+        "full": "images-opt/otter-5/20250403_113323.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113323.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113336.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113336.jpg"
+        "full": "images-opt/otter-5/20250403_113336.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113336.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113353.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113353.jpg"
+        "full": "images-opt/otter-5/20250403_113353.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113353.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113452.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113452.jpg"
+        "full": "images-opt/otter-5/20250403_113452.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113452.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113508.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113508.jpg"
+        "full": "images-opt/otter-5/20250403_113508.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113508.jpg"
       },
       {
-        "full": "/images-opt/otter-5/20250403_113536.jpg",
-        "thumb": "/images-opt/otter-5/thumb/20250403_113536.jpg"
+        "full": "images-opt/otter-5/20250403_113536.jpg",
+        "thumb": "images-opt/otter-5/thumb/20250403_113536.jpg"
       }
     ]
   },
@@ -2894,40 +2894,40 @@ export const lodges: Lodge[] = [
     "category": "Otter",
     "images": [
       {
-        "full": "/images-opt/otter-6/20241002_143639.jpg",
-        "thumb": "/images-opt/otter-6/thumb/20241002_143639.jpg"
+        "full": "images-opt/otter-6/20241002_143639.jpg",
+        "thumb": "images-opt/otter-6/thumb/20241002_143639.jpg"
       },
       {
-        "full": "/images-opt/otter-6/20241002_143702.jpg",
-        "thumb": "/images-opt/otter-6/thumb/20241002_143702.jpg"
+        "full": "images-opt/otter-6/20241002_143702.jpg",
+        "thumb": "images-opt/otter-6/thumb/20241002_143702.jpg"
       },
       {
-        "full": "/images-opt/otter-6/20241002_143724.jpg",
-        "thumb": "/images-opt/otter-6/thumb/20241002_143724.jpg"
+        "full": "images-opt/otter-6/20241002_143724.jpg",
+        "thumb": "images-opt/otter-6/thumb/20241002_143724.jpg"
       },
       {
-        "full": "/images-opt/otter-6/20241002_143750.jpg",
-        "thumb": "/images-opt/otter-6/thumb/20241002_143750.jpg"
+        "full": "images-opt/otter-6/20241002_143750.jpg",
+        "thumb": "images-opt/otter-6/thumb/20241002_143750.jpg"
       },
       {
-        "full": "/images-opt/otter-6/20241002_143818.jpg",
-        "thumb": "/images-opt/otter-6/thumb/20241002_143818.jpg"
+        "full": "images-opt/otter-6/20241002_143818.jpg",
+        "thumb": "images-opt/otter-6/thumb/20241002_143818.jpg"
       },
       {
-        "full": "/images-opt/otter-6/20241002_143832.jpg",
-        "thumb": "/images-opt/otter-6/thumb/20241002_143832.jpg"
+        "full": "images-opt/otter-6/20241002_143832.jpg",
+        "thumb": "images-opt/otter-6/thumb/20241002_143832.jpg"
       },
       {
-        "full": "/images-opt/otter-6/20241218_112857.jpg",
-        "thumb": "/images-opt/otter-6/thumb/20241218_112857.jpg"
+        "full": "images-opt/otter-6/20241218_112857.jpg",
+        "thumb": "images-opt/otter-6/thumb/20241218_112857.jpg"
       },
       {
-        "full": "/images-opt/otter-6/20241218_112907.jpg",
-        "thumb": "/images-opt/otter-6/thumb/20241218_112907.jpg"
+        "full": "images-opt/otter-6/20241218_112907.jpg",
+        "thumb": "images-opt/otter-6/thumb/20241218_112907.jpg"
       },
       {
-        "full": "/images-opt/otter-6/20241218_112916.jpg",
-        "thumb": "/images-opt/otter-6/thumb/20241218_112916.jpg"
+        "full": "images-opt/otter-6/20241218_112916.jpg",
+        "thumb": "images-opt/otter-6/thumb/20241218_112916.jpg"
       }
     ]
   },
@@ -2937,104 +2937,104 @@ export const lodges: Lodge[] = [
     "category": "Otter",
     "images": [
       {
-        "full": "/images-opt/otter-7/20250331_090854.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_090854.jpg"
+        "full": "images-opt/otter-7/20250331_090854.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_090854.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_090926.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_090926.jpg"
+        "full": "images-opt/otter-7/20250331_090926.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_090926.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_090933.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_090933.jpg"
+        "full": "images-opt/otter-7/20250331_090933.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_090933.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_091109.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_091109.jpg"
+        "full": "images-opt/otter-7/20250331_091109.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_091109.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_091310.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_091310.jpg"
+        "full": "images-opt/otter-7/20250331_091310.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_091310.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_091720.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_091720.jpg"
+        "full": "images-opt/otter-7/20250331_091720.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_091720.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_091724.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_091724.jpg"
+        "full": "images-opt/otter-7/20250331_091724.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_091724.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_091750.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_091750.jpg"
+        "full": "images-opt/otter-7/20250331_091750.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_091750.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_091819.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_091819.jpg"
+        "full": "images-opt/otter-7/20250331_091819.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_091819.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_091821.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_091821.jpg"
+        "full": "images-opt/otter-7/20250331_091821.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_091821.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092006.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092006.jpg"
+        "full": "images-opt/otter-7/20250331_092006.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092006.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092137.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092137.jpg"
+        "full": "images-opt/otter-7/20250331_092137.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092137.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092150.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092150.jpg"
+        "full": "images-opt/otter-7/20250331_092150.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092150.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092209.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092209.jpg"
+        "full": "images-opt/otter-7/20250331_092209.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092209.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092250.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092250.jpg"
+        "full": "images-opt/otter-7/20250331_092250.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092250.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092307.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092307.jpg"
+        "full": "images-opt/otter-7/20250331_092307.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092307.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092312.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092312.jpg"
+        "full": "images-opt/otter-7/20250331_092312.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092312.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092319.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092319.jpg"
+        "full": "images-opt/otter-7/20250331_092319.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092319.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092337.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092337.jpg"
+        "full": "images-opt/otter-7/20250331_092337.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092337.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092401.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092401.jpg"
+        "full": "images-opt/otter-7/20250331_092401.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092401.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092404.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092404.jpg"
+        "full": "images-opt/otter-7/20250331_092404.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092404.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092417.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092417.jpg"
+        "full": "images-opt/otter-7/20250331_092417.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092417.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092603.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092603.jpg"
+        "full": "images-opt/otter-7/20250331_092603.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092603.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092615.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092615.jpg"
+        "full": "images-opt/otter-7/20250331_092615.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092615.jpg"
       },
       {
-        "full": "/images-opt/otter-7/20250331_092653.jpg",
-        "thumb": "/images-opt/otter-7/thumb/20250331_092653.jpg"
+        "full": "images-opt/otter-7/20250331_092653.jpg",
+        "thumb": "images-opt/otter-7/thumb/20250331_092653.jpg"
       }
     ]
   },
@@ -3044,44 +3044,44 @@ export const lodges: Lodge[] = [
     "category": "Otter",
     "images": [
       {
-        "full": "/images-opt/otter-8/20241017_145413.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20241017_145413.jpg"
+        "full": "images-opt/otter-8/20241017_145413.jpg",
+        "thumb": "images-opt/otter-8/thumb/20241017_145413.jpg"
       },
       {
-        "full": "/images-opt/otter-8/20241017_145426.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20241017_145426.jpg"
+        "full": "images-opt/otter-8/20241017_145426.jpg",
+        "thumb": "images-opt/otter-8/thumb/20241017_145426.jpg"
       },
       {
-        "full": "/images-opt/otter-8/20241017_145435.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20241017_145435.jpg"
+        "full": "images-opt/otter-8/20241017_145435.jpg",
+        "thumb": "images-opt/otter-8/thumb/20241017_145435.jpg"
       },
       {
-        "full": "/images-opt/otter-8/20241017_145451.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20241017_145451.jpg"
+        "full": "images-opt/otter-8/20241017_145451.jpg",
+        "thumb": "images-opt/otter-8/thumb/20241017_145451.jpg"
       },
       {
-        "full": "/images-opt/otter-8/20241017_145503.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20241017_145503.jpg"
+        "full": "images-opt/otter-8/20241017_145503.jpg",
+        "thumb": "images-opt/otter-8/thumb/20241017_145503.jpg"
       },
       {
-        "full": "/images-opt/otter-8/20241017_145506.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20241017_145506.jpg"
+        "full": "images-opt/otter-8/20241017_145506.jpg",
+        "thumb": "images-opt/otter-8/thumb/20241017_145506.jpg"
       },
       {
-        "full": "/images-opt/otter-8/20241017_145518.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20241017_145518.jpg"
+        "full": "images-opt/otter-8/20241017_145518.jpg",
+        "thumb": "images-opt/otter-8/thumb/20241017_145518.jpg"
       },
       {
-        "full": "/images-opt/otter-8/20241017_145541.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20241017_145541.jpg"
+        "full": "images-opt/otter-8/20241017_145541.jpg",
+        "thumb": "images-opt/otter-8/thumb/20241017_145541.jpg"
       },
       {
-        "full": "/images-opt/otter-8/20250424_115733.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20250424_115733.jpg"
+        "full": "images-opt/otter-8/20250424_115733.jpg",
+        "thumb": "images-opt/otter-8/thumb/20250424_115733.jpg"
       },
       {
-        "full": "/images-opt/otter-8/20250424_115806.jpg",
-        "thumb": "/images-opt/otter-8/thumb/20250424_115806.jpg"
+        "full": "images-opt/otter-8/20250424_115806.jpg",
+        "thumb": "images-opt/otter-8/thumb/20250424_115806.jpg"
       }
     ]
   },
@@ -3091,60 +3091,60 @@ export const lodges: Lodge[] = [
     "category": "Pine Marten",
     "images": [
       {
-        "full": "/images-opt/pine-marten-1/20241011_142532.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_142532.jpg"
+        "full": "images-opt/pine-marten-1/20241011_142532.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_142532.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241011_142553.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_142553.jpg"
+        "full": "images-opt/pine-marten-1/20241011_142553.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_142553.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241011_142610.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_142610.jpg"
+        "full": "images-opt/pine-marten-1/20241011_142610.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_142610.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241011_142621.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_142621.jpg"
+        "full": "images-opt/pine-marten-1/20241011_142621.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_142621.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241011_142628.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_142628.jpg"
+        "full": "images-opt/pine-marten-1/20241011_142628.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_142628.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241011_142642.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_142642.jpg"
+        "full": "images-opt/pine-marten-1/20241011_142642.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_142642.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241011_142702.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_142702.jpg"
+        "full": "images-opt/pine-marten-1/20241011_142702.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_142702.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241011_142724.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_142724.jpg"
+        "full": "images-opt/pine-marten-1/20241011_142724.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_142724.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241011_142735.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_142735.jpg"
+        "full": "images-opt/pine-marten-1/20241011_142735.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_142735.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241011_143009.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241011_143009.jpg"
+        "full": "images-opt/pine-marten-1/20241011_143009.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241011_143009.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241218_133245.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241218_133245.jpg"
+        "full": "images-opt/pine-marten-1/20241218_133245.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241218_133245.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241218_133358.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241218_133358.jpg"
+        "full": "images-opt/pine-marten-1/20241218_133358.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241218_133358.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241218_133517-2.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241218_133517-2.jpg"
+        "full": "images-opt/pine-marten-1/20241218_133517-2.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241218_133517-2.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-1/20241218_133547.jpg",
-        "thumb": "/images-opt/pine-marten-1/thumb/20241218_133547.jpg"
+        "full": "images-opt/pine-marten-1/20241218_133547.jpg",
+        "thumb": "images-opt/pine-marten-1/thumb/20241218_133547.jpg"
       }
     ]
   },
@@ -3154,44 +3154,44 @@ export const lodges: Lodge[] = [
     "category": "Pine Marten",
     "images": [
       {
-        "full": "/images-opt/pine-marten-2/021.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/021.jpg"
+        "full": "images-opt/pine-marten-2/021.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/021.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-2/022-(2)---copy.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/022-(2)---copy.jpg"
+        "full": "images-opt/pine-marten-2/022-(2)---copy.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/022-(2)---copy.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-2/20241010_141440.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/20241010_141440.jpg"
+        "full": "images-opt/pine-marten-2/20241010_141440.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/20241010_141440.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-2/20241010_141549.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/20241010_141549.jpg"
+        "full": "images-opt/pine-marten-2/20241010_141549.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/20241010_141549.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-2/20241010_141624.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/20241010_141624.jpg"
+        "full": "images-opt/pine-marten-2/20241010_141624.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/20241010_141624.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-2/20241010_141643.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/20241010_141643.jpg"
+        "full": "images-opt/pine-marten-2/20241010_141643.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/20241010_141643.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-2/20241010_141855.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/20241010_141855.jpg"
+        "full": "images-opt/pine-marten-2/20241010_141855.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/20241010_141855.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-2/20241010_141906.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/20241010_141906.jpg"
+        "full": "images-opt/pine-marten-2/20241010_141906.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/20241010_141906.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-2/20241010_141920-2.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/20241010_141920-2.jpg"
+        "full": "images-opt/pine-marten-2/20241010_141920-2.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/20241010_141920-2.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-2/20241010_141920.jpg",
-        "thumb": "/images-opt/pine-marten-2/thumb/20241010_141920.jpg"
+        "full": "images-opt/pine-marten-2/20241010_141920.jpg",
+        "thumb": "images-opt/pine-marten-2/thumb/20241010_141920.jpg"
       }
     ]
   },
@@ -3201,52 +3201,52 @@ export const lodges: Lodge[] = [
     "category": "Pine Marten",
     "images": [
       {
-        "full": "/images-opt/pine-marten-3/20241011_142027.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142027.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142027.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142027.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241011_142058.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142058.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142058.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142058.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241011_142123.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142123.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142123.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142123.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241011_142136.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142136.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142136.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142136.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241011_142149.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142149.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142149.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142149.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241011_142154.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142154.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142154.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142154.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241011_142223.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142223.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142223.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142223.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241011_142242.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142242.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142242.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142242.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241011_142300.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142300.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142300.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142300.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241011_142306.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241011_142306.jpg"
+        "full": "images-opt/pine-marten-3/20241011_142306.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241011_142306.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241218_133658.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241218_133658.jpg"
+        "full": "images-opt/pine-marten-3/20241218_133658.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241218_133658.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-3/20241218_133739-3.jpg",
-        "thumb": "/images-opt/pine-marten-3/thumb/20241218_133739-3.jpg"
+        "full": "images-opt/pine-marten-3/20241218_133739-3.jpg",
+        "thumb": "images-opt/pine-marten-3/thumb/20241218_133739-3.jpg"
       }
     ]
   },
@@ -3256,60 +3256,60 @@ export const lodges: Lodge[] = [
     "category": "Pine Marten",
     "images": [
       {
-        "full": "/images-opt/pine-marten-4/20241010_142009.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241010_142009.jpg"
+        "full": "images-opt/pine-marten-4/20241010_142009.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241010_142009.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141129.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141129.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141129.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141129.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141217.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141217.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141217.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141217.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141242.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141242.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141242.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141242.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141310.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141310.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141310.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141310.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141326.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141326.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141326.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141326.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141334.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141334.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141334.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141334.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141341.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141341.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141341.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141341.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141402.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141402.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141402.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141402.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141417.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141417.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141417.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141417.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141427.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141427.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141427.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141427.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/20241014_141511.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/20241014_141511.jpg"
+        "full": "images-opt/pine-marten-4/20241014_141511.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/20241014_141511.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/l7_1.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/l7_1.jpg"
+        "full": "images-opt/pine-marten-4/l7_1.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/l7_1.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-4/l8.jpg",
-        "thumb": "/images-opt/pine-marten-4/thumb/l8.jpg"
+        "full": "images-opt/pine-marten-4/l8.jpg",
+        "thumb": "images-opt/pine-marten-4/thumb/l8.jpg"
       }
     ]
   },
@@ -3319,52 +3319,52 @@ export const lodges: Lodge[] = [
     "category": "Pine Marten",
     "images": [
       {
-        "full": "/images-opt/pine-marten-5/20241011_141557.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141557.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141557.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141557.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241011_141623.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141623.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141623.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141623.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241011_141633.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141633.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141633.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141633.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241011_141637.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141637.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141637.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141637.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241011_141703.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141703.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141703.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141703.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241011_141710.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141710.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141710.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141710.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241011_141724.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141724.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141724.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141724.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241011_141741.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141741.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141741.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141741.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241011_141748.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141748.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141748.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141748.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241011_141809.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241011_141809.jpg"
+        "full": "images-opt/pine-marten-5/20241011_141809.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241011_141809.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241218_133855.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241218_133855.jpg"
+        "full": "images-opt/pine-marten-5/20241218_133855.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241218_133855.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-5/20241218_133934-2-2.jpg",
-        "thumb": "/images-opt/pine-marten-5/thumb/20241218_133934-2-2.jpg"
+        "full": "images-opt/pine-marten-5/20241218_133934-2-2.jpg",
+        "thumb": "images-opt/pine-marten-5/thumb/20241218_133934-2-2.jpg"
       }
     ]
   },
@@ -3374,56 +3374,56 @@ export const lodges: Lodge[] = [
     "category": "Pine Marten",
     "images": [
       {
-        "full": "/images-opt/pine-marten-6/20241010_142210.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241010_142210.jpg"
+        "full": "images-opt/pine-marten-6/20241010_142210.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241010_142210.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241010_142221.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241010_142221.jpg"
+        "full": "images-opt/pine-marten-6/20241010_142221.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241010_142221.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241010_142308.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241010_142308.jpg"
+        "full": "images-opt/pine-marten-6/20241010_142308.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241010_142308.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241010_142325.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241010_142325.jpg"
+        "full": "images-opt/pine-marten-6/20241010_142325.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241010_142325.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241010_142339.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241010_142339.jpg"
+        "full": "images-opt/pine-marten-6/20241010_142339.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241010_142339.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241011_141207.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241011_141207.jpg"
+        "full": "images-opt/pine-marten-6/20241011_141207.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241011_141207.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241011_141229.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241011_141229.jpg"
+        "full": "images-opt/pine-marten-6/20241011_141229.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241011_141229.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241011_141243-2.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241011_141243-2.jpg"
+        "full": "images-opt/pine-marten-6/20241011_141243-2.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241011_141243-2.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241011_141243.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241011_141243.jpg"
+        "full": "images-opt/pine-marten-6/20241011_141243.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241011_141243.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241011_141301.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241011_141301.jpg"
+        "full": "images-opt/pine-marten-6/20241011_141301.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241011_141301.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241011_141314.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241011_141314.jpg"
+        "full": "images-opt/pine-marten-6/20241011_141314.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241011_141314.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241011_141327.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241011_141327.jpg"
+        "full": "images-opt/pine-marten-6/20241011_141327.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241011_141327.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-6/20241011_141347.jpg",
-        "thumb": "/images-opt/pine-marten-6/thumb/20241011_141347.jpg"
+        "full": "images-opt/pine-marten-6/20241011_141347.jpg",
+        "thumb": "images-opt/pine-marten-6/thumb/20241011_141347.jpg"
       }
     ]
   },
@@ -3433,56 +3433,56 @@ export const lodges: Lodge[] = [
     "category": "Pine Marten",
     "images": [
       {
-        "full": "/images-opt/pine-marten-7/20241010_142210.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241010_142210.jpg"
+        "full": "images-opt/pine-marten-7/20241010_142210.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241010_142210.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241010_142221.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241010_142221.jpg"
+        "full": "images-opt/pine-marten-7/20241010_142221.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241010_142221.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241010_142308.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241010_142308.jpg"
+        "full": "images-opt/pine-marten-7/20241010_142308.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241010_142308.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241010_142325.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241010_142325.jpg"
+        "full": "images-opt/pine-marten-7/20241010_142325.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241010_142325.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241010_142339.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241010_142339.jpg"
+        "full": "images-opt/pine-marten-7/20241010_142339.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241010_142339.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241011_141207.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241011_141207.jpg"
+        "full": "images-opt/pine-marten-7/20241011_141207.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241011_141207.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241011_141229.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241011_141229.jpg"
+        "full": "images-opt/pine-marten-7/20241011_141229.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241011_141229.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241011_141243-2.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241011_141243-2.jpg"
+        "full": "images-opt/pine-marten-7/20241011_141243-2.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241011_141243-2.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241011_141243.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241011_141243.jpg"
+        "full": "images-opt/pine-marten-7/20241011_141243.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241011_141243.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241011_141301.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241011_141301.jpg"
+        "full": "images-opt/pine-marten-7/20241011_141301.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241011_141301.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241011_141314.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241011_141314.jpg"
+        "full": "images-opt/pine-marten-7/20241011_141314.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241011_141314.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241011_141327.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241011_141327.jpg"
+        "full": "images-opt/pine-marten-7/20241011_141327.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241011_141327.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-7/20241011_141347.jpg",
-        "thumb": "/images-opt/pine-marten-7/thumb/20241011_141347.jpg"
+        "full": "images-opt/pine-marten-7/20241011_141347.jpg",
+        "thumb": "images-opt/pine-marten-7/thumb/20241011_141347.jpg"
       }
     ]
   },
@@ -3492,40 +3492,40 @@ export const lodges: Lodge[] = [
     "category": "Pine Marten",
     "images": [
       {
-        "full": "/images-opt/pine-marten-8/20241010_142430.jpg",
-        "thumb": "/images-opt/pine-marten-8/thumb/20241010_142430.jpg"
+        "full": "images-opt/pine-marten-8/20241010_142430.jpg",
+        "thumb": "images-opt/pine-marten-8/thumb/20241010_142430.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-8/20241010_142537.jpg",
-        "thumb": "/images-opt/pine-marten-8/thumb/20241010_142537.jpg"
+        "full": "images-opt/pine-marten-8/20241010_142537.jpg",
+        "thumb": "images-opt/pine-marten-8/thumb/20241010_142537.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-8/20241010_142550.jpg",
-        "thumb": "/images-opt/pine-marten-8/thumb/20241010_142550.jpg"
+        "full": "images-opt/pine-marten-8/20241010_142550.jpg",
+        "thumb": "images-opt/pine-marten-8/thumb/20241010_142550.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-8/20241010_142759.jpg",
-        "thumb": "/images-opt/pine-marten-8/thumb/20241010_142759.jpg"
+        "full": "images-opt/pine-marten-8/20241010_142759.jpg",
+        "thumb": "images-opt/pine-marten-8/thumb/20241010_142759.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-8/20241010_142825.jpg",
-        "thumb": "/images-opt/pine-marten-8/thumb/20241010_142825.jpg"
+        "full": "images-opt/pine-marten-8/20241010_142825.jpg",
+        "thumb": "images-opt/pine-marten-8/thumb/20241010_142825.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-8/20241010_142905.jpg",
-        "thumb": "/images-opt/pine-marten-8/thumb/20241010_142905.jpg"
+        "full": "images-opt/pine-marten-8/20241010_142905.jpg",
+        "thumb": "images-opt/pine-marten-8/thumb/20241010_142905.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-8/20241010_142926.jpg",
-        "thumb": "/images-opt/pine-marten-8/thumb/20241010_142926.jpg"
+        "full": "images-opt/pine-marten-8/20241010_142926.jpg",
+        "thumb": "images-opt/pine-marten-8/thumb/20241010_142926.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-8/20241218_134306.jpg",
-        "thumb": "/images-opt/pine-marten-8/thumb/20241218_134306.jpg"
+        "full": "images-opt/pine-marten-8/20241218_134306.jpg",
+        "thumb": "images-opt/pine-marten-8/thumb/20241218_134306.jpg"
       },
       {
-        "full": "/images-opt/pine-marten-8/20241218_134324.jpg",
-        "thumb": "/images-opt/pine-marten-8/thumb/20241218_134324.jpg"
+        "full": "images-opt/pine-marten-8/20241218_134324.jpg",
+        "thumb": "images-opt/pine-marten-8/thumb/20241218_134324.jpg"
       }
     ]
   },
@@ -3535,32 +3535,32 @@ export const lodges: Lodge[] = [
     "category": "Red Deer",
     "images": [
       {
-        "full": "/images-opt/red-deer-1/20241004_141635.jpg",
-        "thumb": "/images-opt/red-deer-1/thumb/20241004_141635.jpg"
+        "full": "images-opt/red-deer-1/20241004_141635.jpg",
+        "thumb": "images-opt/red-deer-1/thumb/20241004_141635.jpg"
       },
       {
-        "full": "/images-opt/red-deer-1/20241004_141651.jpg",
-        "thumb": "/images-opt/red-deer-1/thumb/20241004_141651.jpg"
+        "full": "images-opt/red-deer-1/20241004_141651.jpg",
+        "thumb": "images-opt/red-deer-1/thumb/20241004_141651.jpg"
       },
       {
-        "full": "/images-opt/red-deer-1/20241004_141706.jpg",
-        "thumb": "/images-opt/red-deer-1/thumb/20241004_141706.jpg"
+        "full": "images-opt/red-deer-1/20241004_141706.jpg",
+        "thumb": "images-opt/red-deer-1/thumb/20241004_141706.jpg"
       },
       {
-        "full": "/images-opt/red-deer-1/20241004_141728.jpg",
-        "thumb": "/images-opt/red-deer-1/thumb/20241004_141728.jpg"
+        "full": "images-opt/red-deer-1/20241004_141728.jpg",
+        "thumb": "images-opt/red-deer-1/thumb/20241004_141728.jpg"
       },
       {
-        "full": "/images-opt/red-deer-1/20241004_141815.jpg",
-        "thumb": "/images-opt/red-deer-1/thumb/20241004_141815.jpg"
+        "full": "images-opt/red-deer-1/20241004_141815.jpg",
+        "thumb": "images-opt/red-deer-1/thumb/20241004_141815.jpg"
       },
       {
-        "full": "/images-opt/red-deer-1/20241004_141826.jpg",
-        "thumb": "/images-opt/red-deer-1/thumb/20241004_141826.jpg"
+        "full": "images-opt/red-deer-1/20241004_141826.jpg",
+        "thumb": "images-opt/red-deer-1/thumb/20241004_141826.jpg"
       },
       {
-        "full": "/images-opt/red-deer-1/20241004_142350.jpg",
-        "thumb": "/images-opt/red-deer-1/thumb/20241004_142350.jpg"
+        "full": "images-opt/red-deer-1/20241004_142350.jpg",
+        "thumb": "images-opt/red-deer-1/thumb/20241004_142350.jpg"
       }
     ]
   },
@@ -3570,36 +3570,36 @@ export const lodges: Lodge[] = [
     "category": "Red Deer",
     "images": [
       {
-        "full": "/images-opt/red-deer-2/20241017_144027.jpg",
-        "thumb": "/images-opt/red-deer-2/thumb/20241017_144027.jpg"
+        "full": "images-opt/red-deer-2/20241017_144027.jpg",
+        "thumb": "images-opt/red-deer-2/thumb/20241017_144027.jpg"
       },
       {
-        "full": "/images-opt/red-deer-2/20241017_144042.jpg",
-        "thumb": "/images-opt/red-deer-2/thumb/20241017_144042.jpg"
+        "full": "images-opt/red-deer-2/20241017_144042.jpg",
+        "thumb": "images-opt/red-deer-2/thumb/20241017_144042.jpg"
       },
       {
-        "full": "/images-opt/red-deer-2/20241017_144057.jpg",
-        "thumb": "/images-opt/red-deer-2/thumb/20241017_144057.jpg"
+        "full": "images-opt/red-deer-2/20241017_144057.jpg",
+        "thumb": "images-opt/red-deer-2/thumb/20241017_144057.jpg"
       },
       {
-        "full": "/images-opt/red-deer-2/20241017_144119.jpg",
-        "thumb": "/images-opt/red-deer-2/thumb/20241017_144119.jpg"
+        "full": "images-opt/red-deer-2/20241017_144119.jpg",
+        "thumb": "images-opt/red-deer-2/thumb/20241017_144119.jpg"
       },
       {
-        "full": "/images-opt/red-deer-2/20241017_144143.jpg",
-        "thumb": "/images-opt/red-deer-2/thumb/20241017_144143.jpg"
+        "full": "images-opt/red-deer-2/20241017_144143.jpg",
+        "thumb": "images-opt/red-deer-2/thumb/20241017_144143.jpg"
       },
       {
-        "full": "/images-opt/red-deer-2/20241017_144157.jpg",
-        "thumb": "/images-opt/red-deer-2/thumb/20241017_144157.jpg"
+        "full": "images-opt/red-deer-2/20241017_144157.jpg",
+        "thumb": "images-opt/red-deer-2/thumb/20241017_144157.jpg"
       },
       {
-        "full": "/images-opt/red-deer-2/20241017_144210.jpg",
-        "thumb": "/images-opt/red-deer-2/thumb/20241017_144210.jpg"
+        "full": "images-opt/red-deer-2/20241017_144210.jpg",
+        "thumb": "images-opt/red-deer-2/thumb/20241017_144210.jpg"
       },
       {
-        "full": "/images-opt/red-deer-2/20241017_144229.jpg",
-        "thumb": "/images-opt/red-deer-2/thumb/20241017_144229.jpg"
+        "full": "images-opt/red-deer-2/20241017_144229.jpg",
+        "thumb": "images-opt/red-deer-2/thumb/20241017_144229.jpg"
       }
     ]
   },
@@ -3609,36 +3609,36 @@ export const lodges: Lodge[] = [
     "category": "Red Deer",
     "images": [
       {
-        "full": "/images-opt/red-deer-3/20241017_144027.jpg",
-        "thumb": "/images-opt/red-deer-3/thumb/20241017_144027.jpg"
+        "full": "images-opt/red-deer-3/20241017_144027.jpg",
+        "thumb": "images-opt/red-deer-3/thumb/20241017_144027.jpg"
       },
       {
-        "full": "/images-opt/red-deer-3/20241017_144042.jpg",
-        "thumb": "/images-opt/red-deer-3/thumb/20241017_144042.jpg"
+        "full": "images-opt/red-deer-3/20241017_144042.jpg",
+        "thumb": "images-opt/red-deer-3/thumb/20241017_144042.jpg"
       },
       {
-        "full": "/images-opt/red-deer-3/20241017_144057.jpg",
-        "thumb": "/images-opt/red-deer-3/thumb/20241017_144057.jpg"
+        "full": "images-opt/red-deer-3/20241017_144057.jpg",
+        "thumb": "images-opt/red-deer-3/thumb/20241017_144057.jpg"
       },
       {
-        "full": "/images-opt/red-deer-3/20241017_144119.jpg",
-        "thumb": "/images-opt/red-deer-3/thumb/20241017_144119.jpg"
+        "full": "images-opt/red-deer-3/20241017_144119.jpg",
+        "thumb": "images-opt/red-deer-3/thumb/20241017_144119.jpg"
       },
       {
-        "full": "/images-opt/red-deer-3/20241017_144143.jpg",
-        "thumb": "/images-opt/red-deer-3/thumb/20241017_144143.jpg"
+        "full": "images-opt/red-deer-3/20241017_144143.jpg",
+        "thumb": "images-opt/red-deer-3/thumb/20241017_144143.jpg"
       },
       {
-        "full": "/images-opt/red-deer-3/20241017_144157.jpg",
-        "thumb": "/images-opt/red-deer-3/thumb/20241017_144157.jpg"
+        "full": "images-opt/red-deer-3/20241017_144157.jpg",
+        "thumb": "images-opt/red-deer-3/thumb/20241017_144157.jpg"
       },
       {
-        "full": "/images-opt/red-deer-3/20241017_144210.jpg",
-        "thumb": "/images-opt/red-deer-3/thumb/20241017_144210.jpg"
+        "full": "images-opt/red-deer-3/20241017_144210.jpg",
+        "thumb": "images-opt/red-deer-3/thumb/20241017_144210.jpg"
       },
       {
-        "full": "/images-opt/red-deer-3/20241017_144229.jpg",
-        "thumb": "/images-opt/red-deer-3/thumb/20241017_144229.jpg"
+        "full": "images-opt/red-deer-3/20241017_144229.jpg",
+        "thumb": "images-opt/red-deer-3/thumb/20241017_144229.jpg"
       }
     ]
   },
@@ -3648,36 +3648,36 @@ export const lodges: Lodge[] = [
     "category": "Red Deer",
     "images": [
       {
-        "full": "/images-opt/red-deer-4/20241017_144027.jpg",
-        "thumb": "/images-opt/red-deer-4/thumb/20241017_144027.jpg"
+        "full": "images-opt/red-deer-4/20241017_144027.jpg",
+        "thumb": "images-opt/red-deer-4/thumb/20241017_144027.jpg"
       },
       {
-        "full": "/images-opt/red-deer-4/20241017_144042.jpg",
-        "thumb": "/images-opt/red-deer-4/thumb/20241017_144042.jpg"
+        "full": "images-opt/red-deer-4/20241017_144042.jpg",
+        "thumb": "images-opt/red-deer-4/thumb/20241017_144042.jpg"
       },
       {
-        "full": "/images-opt/red-deer-4/20241017_144057.jpg",
-        "thumb": "/images-opt/red-deer-4/thumb/20241017_144057.jpg"
+        "full": "images-opt/red-deer-4/20241017_144057.jpg",
+        "thumb": "images-opt/red-deer-4/thumb/20241017_144057.jpg"
       },
       {
-        "full": "/images-opt/red-deer-4/20241017_144119.jpg",
-        "thumb": "/images-opt/red-deer-4/thumb/20241017_144119.jpg"
+        "full": "images-opt/red-deer-4/20241017_144119.jpg",
+        "thumb": "images-opt/red-deer-4/thumb/20241017_144119.jpg"
       },
       {
-        "full": "/images-opt/red-deer-4/20241017_144143.jpg",
-        "thumb": "/images-opt/red-deer-4/thumb/20241017_144143.jpg"
+        "full": "images-opt/red-deer-4/20241017_144143.jpg",
+        "thumb": "images-opt/red-deer-4/thumb/20241017_144143.jpg"
       },
       {
-        "full": "/images-opt/red-deer-4/20241017_144157.jpg",
-        "thumb": "/images-opt/red-deer-4/thumb/20241017_144157.jpg"
+        "full": "images-opt/red-deer-4/20241017_144157.jpg",
+        "thumb": "images-opt/red-deer-4/thumb/20241017_144157.jpg"
       },
       {
-        "full": "/images-opt/red-deer-4/20241017_144210.jpg",
-        "thumb": "/images-opt/red-deer-4/thumb/20241017_144210.jpg"
+        "full": "images-opt/red-deer-4/20241017_144210.jpg",
+        "thumb": "images-opt/red-deer-4/thumb/20241017_144210.jpg"
       },
       {
-        "full": "/images-opt/red-deer-4/20241017_144229.jpg",
-        "thumb": "/images-opt/red-deer-4/thumb/20241017_144229.jpg"
+        "full": "images-opt/red-deer-4/20241017_144229.jpg",
+        "thumb": "images-opt/red-deer-4/thumb/20241017_144229.jpg"
       }
     ]
   },
@@ -3687,60 +3687,60 @@ export const lodges: Lodge[] = [
     "category": "Red Deer",
     "images": [
       {
-        "full": "/images-opt/red-deer-5/20230628_150859-(2).jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_150859-(2).jpg"
+        "full": "images-opt/red-deer-5/20230628_150859-(2).jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_150859-(2).jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_151018.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_151018.jpg"
+        "full": "images-opt/red-deer-5/20230628_151018.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_151018.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_151359.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_151359.jpg"
+        "full": "images-opt/red-deer-5/20230628_151359.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_151359.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_151635.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_151635.jpg"
+        "full": "images-opt/red-deer-5/20230628_151635.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_151635.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_151800.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_151800.jpg"
+        "full": "images-opt/red-deer-5/20230628_151800.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_151800.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_151847.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_151847.jpg"
+        "full": "images-opt/red-deer-5/20230628_151847.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_151847.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_151949.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_151949.jpg"
+        "full": "images-opt/red-deer-5/20230628_151949.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_151949.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_152020.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_152020.jpg"
+        "full": "images-opt/red-deer-5/20230628_152020.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_152020.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_152032.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_152032.jpg"
+        "full": "images-opt/red-deer-5/20230628_152032.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_152032.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_1520321.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_1520321.jpg"
+        "full": "images-opt/red-deer-5/20230628_1520321.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_1520321.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_152202.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_152202.jpg"
+        "full": "images-opt/red-deer-5/20230628_152202.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_152202.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20230628_152326.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20230628_152326.jpg"
+        "full": "images-opt/red-deer-5/20230628_152326.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20230628_152326.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20241004_135216.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20241004_135216.jpg"
+        "full": "images-opt/red-deer-5/20241004_135216.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20241004_135216.jpg"
       },
       {
-        "full": "/images-opt/red-deer-5/20241004_135224.jpg",
-        "thumb": "/images-opt/red-deer-5/thumb/20241004_135224.jpg"
+        "full": "images-opt/red-deer-5/20241004_135224.jpg",
+        "thumb": "images-opt/red-deer-5/thumb/20241004_135224.jpg"
       }
     ]
   },
@@ -3750,44 +3750,44 @@ export const lodges: Lodge[] = [
     "category": "Red Deer",
     "images": [
       {
-        "full": "/images-opt/red-deer-6/20241108_094308.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094308.jpg"
+        "full": "images-opt/red-deer-6/20241108_094308.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094308.jpg"
       },
       {
-        "full": "/images-opt/red-deer-6/20241108_094325.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094325.jpg"
+        "full": "images-opt/red-deer-6/20241108_094325.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094325.jpg"
       },
       {
-        "full": "/images-opt/red-deer-6/20241108_094336-2.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094336-2.jpg"
+        "full": "images-opt/red-deer-6/20241108_094336-2.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094336-2.jpg"
       },
       {
-        "full": "/images-opt/red-deer-6/20241108_094350.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094350.jpg"
+        "full": "images-opt/red-deer-6/20241108_094350.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094350.jpg"
       },
       {
-        "full": "/images-opt/red-deer-6/20241108_094416.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094416.jpg"
+        "full": "images-opt/red-deer-6/20241108_094416.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094416.jpg"
       },
       {
-        "full": "/images-opt/red-deer-6/20241108_094430.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094430.jpg"
+        "full": "images-opt/red-deer-6/20241108_094430.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094430.jpg"
       },
       {
-        "full": "/images-opt/red-deer-6/20241108_094441.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094441.jpg"
+        "full": "images-opt/red-deer-6/20241108_094441.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094441.jpg"
       },
       {
-        "full": "/images-opt/red-deer-6/20241108_094449.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094449.jpg"
+        "full": "images-opt/red-deer-6/20241108_094449.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094449.jpg"
       },
       {
-        "full": "/images-opt/red-deer-6/20241108_094453.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094453.jpg"
+        "full": "images-opt/red-deer-6/20241108_094453.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094453.jpg"
       },
       {
-        "full": "/images-opt/red-deer-6/20241108_094506.jpg",
-        "thumb": "/images-opt/red-deer-6/thumb/20241108_094506.jpg"
+        "full": "images-opt/red-deer-6/20241108_094506.jpg",
+        "thumb": "images-opt/red-deer-6/thumb/20241108_094506.jpg"
       }
     ]
   },
@@ -3797,48 +3797,48 @@ export const lodges: Lodge[] = [
     "category": "Red Deer",
     "images": [
       {
-        "full": "/images-opt/red-deer-7/20241004_134825.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241004_134825.jpg"
+        "full": "images-opt/red-deer-7/20241004_134825.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241004_134825.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241004_134838.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241004_134838.jpg"
+        "full": "images-opt/red-deer-7/20241004_134838.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241004_134838.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241004_134912.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241004_134912.jpg"
+        "full": "images-opt/red-deer-7/20241004_134912.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241004_134912.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241004_134941.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241004_134941.jpg"
+        "full": "images-opt/red-deer-7/20241004_134941.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241004_134941.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241107_115254-2.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241107_115254-2.jpg"
+        "full": "images-opt/red-deer-7/20241107_115254-2.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241107_115254-2.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241107_115311.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241107_115311.jpg"
+        "full": "images-opt/red-deer-7/20241107_115311.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241107_115311.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241107_115333.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241107_115333.jpg"
+        "full": "images-opt/red-deer-7/20241107_115333.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241107_115333.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241107_115345.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241107_115345.jpg"
+        "full": "images-opt/red-deer-7/20241107_115345.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241107_115345.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241107_115406.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241107_115406.jpg"
+        "full": "images-opt/red-deer-7/20241107_115406.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241107_115406.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241107_115433.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241107_115433.jpg"
+        "full": "images-opt/red-deer-7/20241107_115433.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241107_115433.jpg"
       },
       {
-        "full": "/images-opt/red-deer-7/20241107_115503.jpg",
-        "thumb": "/images-opt/red-deer-7/thumb/20241107_115503.jpg"
+        "full": "images-opt/red-deer-7/20241107_115503.jpg",
+        "thumb": "images-opt/red-deer-7/thumb/20241107_115503.jpg"
       }
     ]
   },
@@ -3848,56 +3848,56 @@ export const lodges: Lodge[] = [
     "category": "Red Deer",
     "images": [
       {
-        "full": "/images-opt/red-deer-8/20241118_135845.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_135845.jpg"
+        "full": "images-opt/red-deer-8/20241118_135845.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_135845.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_135902.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_135902.jpg"
+        "full": "images-opt/red-deer-8/20241118_135902.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_135902.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_135920.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_135920.jpg"
+        "full": "images-opt/red-deer-8/20241118_135920.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_135920.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_135927.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_135927.jpg"
+        "full": "images-opt/red-deer-8/20241118_135927.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_135927.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_135942.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_135942.jpg"
+        "full": "images-opt/red-deer-8/20241118_135942.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_135942.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_135951.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_135951.jpg"
+        "full": "images-opt/red-deer-8/20241118_135951.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_135951.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_140001.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_140001.jpg"
+        "full": "images-opt/red-deer-8/20241118_140001.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_140001.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_140012.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_140012.jpg"
+        "full": "images-opt/red-deer-8/20241118_140012.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_140012.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_140023.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_140023.jpg"
+        "full": "images-opt/red-deer-8/20241118_140023.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_140023.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_140041.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_140041.jpg"
+        "full": "images-opt/red-deer-8/20241118_140041.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_140041.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_140101.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_140101.jpg"
+        "full": "images-opt/red-deer-8/20241118_140101.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_140101.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_140122.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_140122.jpg"
+        "full": "images-opt/red-deer-8/20241118_140122.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_140122.jpg"
       },
       {
-        "full": "/images-opt/red-deer-8/20241118_140152.jpg",
-        "thumb": "/images-opt/red-deer-8/thumb/20241118_140152.jpg"
+        "full": "images-opt/red-deer-8/20241118_140152.jpg",
+        "thumb": "images-opt/red-deer-8/thumb/20241118_140152.jpg"
       }
     ]
   },
@@ -3907,48 +3907,48 @@ export const lodges: Lodge[] = [
     "category": "Red Squirrel",
     "images": [
       {
-        "full": "/images-opt/red-squirrel-1/20240926_134803.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20240926_134803.jpg"
+        "full": "images-opt/red-squirrel-1/20240926_134803.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20240926_134803.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20240926_134825.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20240926_134825.jpg"
+        "full": "images-opt/red-squirrel-1/20240926_134825.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20240926_134825.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20240926_135012-2.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20240926_135012-2.jpg"
+        "full": "images-opt/red-squirrel-1/20240926_135012-2.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20240926_135012-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20240926_135112.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20240926_135112.jpg"
+        "full": "images-opt/red-squirrel-1/20240926_135112.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20240926_135112.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20240926_135128.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20240926_135128.jpg"
+        "full": "images-opt/red-squirrel-1/20240926_135128.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20240926_135128.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20240926_135205.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20240926_135205.jpg"
+        "full": "images-opt/red-squirrel-1/20240926_135205.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20240926_135205.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20240926_135236.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20240926_135236.jpg"
+        "full": "images-opt/red-squirrel-1/20240926_135236.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20240926_135236.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20240926_135250.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20240926_135250.jpg"
+        "full": "images-opt/red-squirrel-1/20240926_135250.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20240926_135250.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20240926_135259.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20240926_135259.jpg"
+        "full": "images-opt/red-squirrel-1/20240926_135259.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20240926_135259.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20241128_110836.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20241128_110836.jpg"
+        "full": "images-opt/red-squirrel-1/20241128_110836.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20241128_110836.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-1/20241128_111505.jpg",
-        "thumb": "/images-opt/red-squirrel-1/thumb/20241128_111505.jpg"
+        "full": "images-opt/red-squirrel-1/20241128_111505.jpg",
+        "thumb": "images-opt/red-squirrel-1/thumb/20241128_111505.jpg"
       }
     ]
   },
@@ -3958,44 +3958,44 @@ export const lodges: Lodge[] = [
     "category": "Red Squirrel",
     "images": [
       {
-        "full": "/images-opt/red-squirrel-2/20240926_141438.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/20240926_141438.jpg"
+        "full": "images-opt/red-squirrel-2/20240926_141438.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/20240926_141438.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-2/20240926_141522.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/20240926_141522.jpg"
+        "full": "images-opt/red-squirrel-2/20240926_141522.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/20240926_141522.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-2/20240926_141606-2.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/20240926_141606-2.jpg"
+        "full": "images-opt/red-squirrel-2/20240926_141606-2.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/20240926_141606-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-2/20240926_141631.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/20240926_141631.jpg"
+        "full": "images-opt/red-squirrel-2/20240926_141631.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/20240926_141631.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-2/20240926_141648.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/20240926_141648.jpg"
+        "full": "images-opt/red-squirrel-2/20240926_141648.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/20240926_141648.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-2/20240926_141833.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/20240926_141833.jpg"
+        "full": "images-opt/red-squirrel-2/20240926_141833.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/20240926_141833.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-2/20241218_132341-2-2.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/20241218_132341-2-2.jpg"
+        "full": "images-opt/red-squirrel-2/20241218_132341-2-2.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/20241218_132341-2-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-2/20241218_132506-2.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/20241218_132506-2.jpg"
+        "full": "images-opt/red-squirrel-2/20241218_132506-2.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/20241218_132506-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-2/l1.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/l1.jpg"
+        "full": "images-opt/red-squirrel-2/l1.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/l1.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-2/l2.jpg",
-        "thumb": "/images-opt/red-squirrel-2/thumb/l2.jpg"
+        "full": "images-opt/red-squirrel-2/l2.jpg",
+        "thumb": "images-opt/red-squirrel-2/thumb/l2.jpg"
       }
     ]
   },
@@ -4005,40 +4005,40 @@ export const lodges: Lodge[] = [
     "category": "Red Squirrel",
     "images": [
       {
-        "full": "/images-opt/red-squirrel-3/20240926_135456.jpg",
-        "thumb": "/images-opt/red-squirrel-3/thumb/20240926_135456.jpg"
+        "full": "images-opt/red-squirrel-3/20240926_135456.jpg",
+        "thumb": "images-opt/red-squirrel-3/thumb/20240926_135456.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-3/20240926_135532-2.jpg",
-        "thumb": "/images-opt/red-squirrel-3/thumb/20240926_135532-2.jpg"
+        "full": "images-opt/red-squirrel-3/20240926_135532-2.jpg",
+        "thumb": "images-opt/red-squirrel-3/thumb/20240926_135532-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-3/20240926_135551.jpg",
-        "thumb": "/images-opt/red-squirrel-3/thumb/20240926_135551.jpg"
+        "full": "images-opt/red-squirrel-3/20240926_135551.jpg",
+        "thumb": "images-opt/red-squirrel-3/thumb/20240926_135551.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-3/20240926_135600.jpg",
-        "thumb": "/images-opt/red-squirrel-3/thumb/20240926_135600.jpg"
+        "full": "images-opt/red-squirrel-3/20240926_135600.jpg",
+        "thumb": "images-opt/red-squirrel-3/thumb/20240926_135600.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-3/20240926_135616.jpg",
-        "thumb": "/images-opt/red-squirrel-3/thumb/20240926_135616.jpg"
+        "full": "images-opt/red-squirrel-3/20240926_135616.jpg",
+        "thumb": "images-opt/red-squirrel-3/thumb/20240926_135616.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-3/20240926_135638.jpg",
-        "thumb": "/images-opt/red-squirrel-3/thumb/20240926_135638.jpg"
+        "full": "images-opt/red-squirrel-3/20240926_135638.jpg",
+        "thumb": "images-opt/red-squirrel-3/thumb/20240926_135638.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-3/20240926_135656.jpg",
-        "thumb": "/images-opt/red-squirrel-3/thumb/20240926_135656.jpg"
+        "full": "images-opt/red-squirrel-3/20240926_135656.jpg",
+        "thumb": "images-opt/red-squirrel-3/thumb/20240926_135656.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-3/20241218_132656-2.jpg",
-        "thumb": "/images-opt/red-squirrel-3/thumb/20241218_132656-2.jpg"
+        "full": "images-opt/red-squirrel-3/20241218_132656-2.jpg",
+        "thumb": "images-opt/red-squirrel-3/thumb/20241218_132656-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-3/20241218_132736-2.jpg",
-        "thumb": "/images-opt/red-squirrel-3/thumb/20241218_132736-2.jpg"
+        "full": "images-opt/red-squirrel-3/20241218_132736-2.jpg",
+        "thumb": "images-opt/red-squirrel-3/thumb/20241218_132736-2.jpg"
       }
     ]
   },
@@ -4048,40 +4048,40 @@ export const lodges: Lodge[] = [
     "category": "Red Squirrel",
     "images": [
       {
-        "full": "/images-opt/red-squirrel-4/20240926_142107.jpg",
-        "thumb": "/images-opt/red-squirrel-4/thumb/20240926_142107.jpg"
+        "full": "images-opt/red-squirrel-4/20240926_142107.jpg",
+        "thumb": "images-opt/red-squirrel-4/thumb/20240926_142107.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-4/20240926_142118.jpg",
-        "thumb": "/images-opt/red-squirrel-4/thumb/20240926_142118.jpg"
+        "full": "images-opt/red-squirrel-4/20240926_142118.jpg",
+        "thumb": "images-opt/red-squirrel-4/thumb/20240926_142118.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-4/20240926_142130.jpg",
-        "thumb": "/images-opt/red-squirrel-4/thumb/20240926_142130.jpg"
+        "full": "images-opt/red-squirrel-4/20240926_142130.jpg",
+        "thumb": "images-opt/red-squirrel-4/thumb/20240926_142130.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-4/20241218_132248-2.jpg",
-        "thumb": "/images-opt/red-squirrel-4/thumb/20241218_132248-2.jpg"
+        "full": "images-opt/red-squirrel-4/20241218_132248-2.jpg",
+        "thumb": "images-opt/red-squirrel-4/thumb/20241218_132248-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-4/20241218_132248.jpg",
-        "thumb": "/images-opt/red-squirrel-4/thumb/20241218_132248.jpg"
+        "full": "images-opt/red-squirrel-4/20241218_132248.jpg",
+        "thumb": "images-opt/red-squirrel-4/thumb/20241218_132248.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-4/img_3004.jpg",
-        "thumb": "/images-opt/red-squirrel-4/thumb/img_3004.jpg"
+        "full": "images-opt/red-squirrel-4/img_3004.jpg",
+        "thumb": "images-opt/red-squirrel-4/thumb/img_3004.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-4/l1.jpg",
-        "thumb": "/images-opt/red-squirrel-4/thumb/l1.jpg"
+        "full": "images-opt/red-squirrel-4/l1.jpg",
+        "thumb": "images-opt/red-squirrel-4/thumb/l1.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-4/l2.jpg",
-        "thumb": "/images-opt/red-squirrel-4/thumb/l2.jpg"
+        "full": "images-opt/red-squirrel-4/l2.jpg",
+        "thumb": "images-opt/red-squirrel-4/thumb/l2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-4/living.jpg",
-        "thumb": "/images-opt/red-squirrel-4/thumb/living.jpg"
+        "full": "images-opt/red-squirrel-4/living.jpg",
+        "thumb": "images-opt/red-squirrel-4/thumb/living.jpg"
       }
     ]
   },
@@ -4091,28 +4091,28 @@ export const lodges: Lodge[] = [
     "category": "Red Squirrel",
     "images": [
       {
-        "full": "/images-opt/red-squirrel-5/20240926_140107.jpg",
-        "thumb": "/images-opt/red-squirrel-5/thumb/20240926_140107.jpg"
+        "full": "images-opt/red-squirrel-5/20240926_140107.jpg",
+        "thumb": "images-opt/red-squirrel-5/thumb/20240926_140107.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-5/20240926_140139.jpg",
-        "thumb": "/images-opt/red-squirrel-5/thumb/20240926_140139.jpg"
+        "full": "images-opt/red-squirrel-5/20240926_140139.jpg",
+        "thumb": "images-opt/red-squirrel-5/thumb/20240926_140139.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-5/20240926_140258.jpg",
-        "thumb": "/images-opt/red-squirrel-5/thumb/20240926_140258.jpg"
+        "full": "images-opt/red-squirrel-5/20240926_140258.jpg",
+        "thumb": "images-opt/red-squirrel-5/thumb/20240926_140258.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-5/20241218_132900-2.jpg",
-        "thumb": "/images-opt/red-squirrel-5/thumb/20241218_132900-2.jpg"
+        "full": "images-opt/red-squirrel-5/20241218_132900-2.jpg",
+        "thumb": "images-opt/red-squirrel-5/thumb/20241218_132900-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-5/20241218_132937-2-2.jpg",
-        "thumb": "/images-opt/red-squirrel-5/thumb/20241218_132937-2-2.jpg"
+        "full": "images-opt/red-squirrel-5/20241218_132937-2-2.jpg",
+        "thumb": "images-opt/red-squirrel-5/thumb/20241218_132937-2-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-5/living-2.jpg",
-        "thumb": "/images-opt/red-squirrel-5/thumb/living-2.jpg"
+        "full": "images-opt/red-squirrel-5/living-2.jpg",
+        "thumb": "images-opt/red-squirrel-5/thumb/living-2.jpg"
       }
     ]
   },
@@ -4122,40 +4122,40 @@ export const lodges: Lodge[] = [
     "category": "Red Squirrel",
     "images": [
       {
-        "full": "/images-opt/red-squirrel-6/20240926_142107.jpg",
-        "thumb": "/images-opt/red-squirrel-6/thumb/20240926_142107.jpg"
+        "full": "images-opt/red-squirrel-6/20240926_142107.jpg",
+        "thumb": "images-opt/red-squirrel-6/thumb/20240926_142107.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-6/20240926_142118.jpg",
-        "thumb": "/images-opt/red-squirrel-6/thumb/20240926_142118.jpg"
+        "full": "images-opt/red-squirrel-6/20240926_142118.jpg",
+        "thumb": "images-opt/red-squirrel-6/thumb/20240926_142118.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-6/20240926_142130.jpg",
-        "thumb": "/images-opt/red-squirrel-6/thumb/20240926_142130.jpg"
+        "full": "images-opt/red-squirrel-6/20240926_142130.jpg",
+        "thumb": "images-opt/red-squirrel-6/thumb/20240926_142130.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-6/20241218_132248-2.jpg",
-        "thumb": "/images-opt/red-squirrel-6/thumb/20241218_132248-2.jpg"
+        "full": "images-opt/red-squirrel-6/20241218_132248-2.jpg",
+        "thumb": "images-opt/red-squirrel-6/thumb/20241218_132248-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-6/20241218_132248.jpg",
-        "thumb": "/images-opt/red-squirrel-6/thumb/20241218_132248.jpg"
+        "full": "images-opt/red-squirrel-6/20241218_132248.jpg",
+        "thumb": "images-opt/red-squirrel-6/thumb/20241218_132248.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-6/img_3004.jpg",
-        "thumb": "/images-opt/red-squirrel-6/thumb/img_3004.jpg"
+        "full": "images-opt/red-squirrel-6/img_3004.jpg",
+        "thumb": "images-opt/red-squirrel-6/thumb/img_3004.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-6/l1.jpg",
-        "thumb": "/images-opt/red-squirrel-6/thumb/l1.jpg"
+        "full": "images-opt/red-squirrel-6/l1.jpg",
+        "thumb": "images-opt/red-squirrel-6/thumb/l1.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-6/l2.jpg",
-        "thumb": "/images-opt/red-squirrel-6/thumb/l2.jpg"
+        "full": "images-opt/red-squirrel-6/l2.jpg",
+        "thumb": "images-opt/red-squirrel-6/thumb/l2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-6/living.jpg",
-        "thumb": "/images-opt/red-squirrel-6/thumb/living.jpg"
+        "full": "images-opt/red-squirrel-6/living.jpg",
+        "thumb": "images-opt/red-squirrel-6/thumb/living.jpg"
       }
     ]
   },
@@ -4165,56 +4165,56 @@ export const lodges: Lodge[] = [
     "category": "Red Squirrel",
     "images": [
       {
-        "full": "/images-opt/red-squirrel-7/20240926_140526.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20240926_140526.jpg"
+        "full": "images-opt/red-squirrel-7/20240926_140526.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20240926_140526.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20240926_140707.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20240926_140707.jpg"
+        "full": "images-opt/red-squirrel-7/20240926_140707.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20240926_140707.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20240926_141114.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20240926_141114.jpg"
+        "full": "images-opt/red-squirrel-7/20240926_141114.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20240926_141114.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20240926_141125.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20240926_141125.jpg"
+        "full": "images-opt/red-squirrel-7/20240926_141125.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20240926_141125.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20240926_141153.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20240926_141153.jpg"
+        "full": "images-opt/red-squirrel-7/20240926_141153.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20240926_141153.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20241128_112203.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20241128_112203.jpg"
+        "full": "images-opt/red-squirrel-7/20241128_112203.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20241128_112203.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20241128_112739.,.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20241128_112739.,.jpg"
+        "full": "images-opt/red-squirrel-7/20241128_112739.,.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20241128_112739.,.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20241128_113031.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20241128_113031.jpg"
+        "full": "images-opt/red-squirrel-7/20241128_113031.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20241128_113031.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20241128_113041.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20241128_113041.jpg"
+        "full": "images-opt/red-squirrel-7/20241128_113041.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20241128_113041.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20241128_113054.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20241128_113054.jpg"
+        "full": "images-opt/red-squirrel-7/20241128_113054.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20241128_113054.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20241128_113153.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20241128_113153.jpg"
+        "full": "images-opt/red-squirrel-7/20241128_113153.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20241128_113153.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/20241128_113157.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/20241128_113157.jpg"
+        "full": "images-opt/red-squirrel-7/20241128_113157.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/20241128_113157.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-7/l6.jpg",
-        "thumb": "/images-opt/red-squirrel-7/thumb/l6.jpg"
+        "full": "images-opt/red-squirrel-7/l6.jpg",
+        "thumb": "images-opt/red-squirrel-7/thumb/l6.jpg"
       }
     ]
   },
@@ -4224,32 +4224,32 @@ export const lodges: Lodge[] = [
     "category": "Red Squirrel",
     "images": [
       {
-        "full": "/images-opt/red-squirrel-8/20240926_142701.jpg",
-        "thumb": "/images-opt/red-squirrel-8/thumb/20240926_142701.jpg"
+        "full": "images-opt/red-squirrel-8/20240926_142701.jpg",
+        "thumb": "images-opt/red-squirrel-8/thumb/20240926_142701.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-8/20240926_142817.jpg",
-        "thumb": "/images-opt/red-squirrel-8/thumb/20240926_142817.jpg"
+        "full": "images-opt/red-squirrel-8/20240926_142817.jpg",
+        "thumb": "images-opt/red-squirrel-8/thumb/20240926_142817.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-8/20241218_125732.jpg",
-        "thumb": "/images-opt/red-squirrel-8/thumb/20241218_125732.jpg"
+        "full": "images-opt/red-squirrel-8/20241218_125732.jpg",
+        "thumb": "images-opt/red-squirrel-8/thumb/20241218_125732.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-8/20241218_130214.jpg",
-        "thumb": "/images-opt/red-squirrel-8/thumb/20241218_130214.jpg"
+        "full": "images-opt/red-squirrel-8/20241218_130214.jpg",
+        "thumb": "images-opt/red-squirrel-8/thumb/20241218_130214.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-8/20241218_130224.jpg",
-        "thumb": "/images-opt/red-squirrel-8/thumb/20241218_130224.jpg"
+        "full": "images-opt/red-squirrel-8/20241218_130224.jpg",
+        "thumb": "images-opt/red-squirrel-8/thumb/20241218_130224.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-8/20241218_130235-2.jpg",
-        "thumb": "/images-opt/red-squirrel-8/thumb/20241218_130235-2.jpg"
+        "full": "images-opt/red-squirrel-8/20241218_130235-2.jpg",
+        "thumb": "images-opt/red-squirrel-8/thumb/20241218_130235-2.jpg"
       },
       {
-        "full": "/images-opt/red-squirrel-8/20241218_130417.jpg",
-        "thumb": "/images-opt/red-squirrel-8/thumb/20241218_130417.jpg"
+        "full": "images-opt/red-squirrel-8/20241218_130417.jpg",
+        "thumb": "images-opt/red-squirrel-8/thumb/20241218_130417.jpg"
       }
     ]
   },
@@ -4259,28 +4259,28 @@ export const lodges: Lodge[] = [
     "category": "Studio",
     "images": [
       {
-        "full": "/images-opt/studio-1/1-2.jpg",
-        "thumb": "/images-opt/studio-1/thumb/1-2.jpg"
+        "full": "images-opt/studio-1/1-2.jpg",
+        "thumb": "images-opt/studio-1/thumb/1-2.jpg"
       },
       {
-        "full": "/images-opt/studio-1/20200205_144138-4-2.jpg",
-        "thumb": "/images-opt/studio-1/thumb/20200205_144138-4-2.jpg"
+        "full": "images-opt/studio-1/20200205_144138-4-2.jpg",
+        "thumb": "images-opt/studio-1/thumb/20200205_144138-4-2.jpg"
       },
       {
-        "full": "/images-opt/studio-1/20200205_144223.jpg",
-        "thumb": "/images-opt/studio-1/thumb/20200205_144223.jpg"
+        "full": "images-opt/studio-1/20200205_144223.jpg",
+        "thumb": "images-opt/studio-1/thumb/20200205_144223.jpg"
       },
       {
-        "full": "/images-opt/studio-1/20251204_112259.jpg",
-        "thumb": "/images-opt/studio-1/thumb/20251204_112259.jpg"
+        "full": "images-opt/studio-1/20251204_112259.jpg",
+        "thumb": "images-opt/studio-1/thumb/20251204_112259.jpg"
       },
       {
-        "full": "/images-opt/studio-1/studio-1-living.jpg",
-        "thumb": "/images-opt/studio-1/thumb/studio-1-living.jpg"
+        "full": "images-opt/studio-1/studio-1-living.jpg",
+        "thumb": "images-opt/studio-1/thumb/studio-1-living.jpg"
       },
       {
-        "full": "/images-opt/studio-1/studio-1.jpg",
-        "thumb": "/images-opt/studio-1/thumb/studio-1.jpg"
+        "full": "images-opt/studio-1/studio-1.jpg",
+        "thumb": "images-opt/studio-1/thumb/studio-1.jpg"
       }
     ]
   },
@@ -4290,24 +4290,24 @@ export const lodges: Lodge[] = [
     "category": "Studio",
     "images": [
       {
-        "full": "/images-opt/studio-2/20241002_112540-2.jpg",
-        "thumb": "/images-opt/studio-2/thumb/20241002_112540-2.jpg"
+        "full": "images-opt/studio-2/20241002_112540-2.jpg",
+        "thumb": "images-opt/studio-2/thumb/20241002_112540-2.jpg"
       },
       {
-        "full": "/images-opt/studio-2/20241002_112553-2.jpg",
-        "thumb": "/images-opt/studio-2/thumb/20241002_112553-2.jpg"
+        "full": "images-opt/studio-2/20241002_112553-2.jpg",
+        "thumb": "images-opt/studio-2/thumb/20241002_112553-2.jpg"
       },
       {
-        "full": "/images-opt/studio-2/20241002_112636.jpg",
-        "thumb": "/images-opt/studio-2/thumb/20241002_112636.jpg"
+        "full": "images-opt/studio-2/20241002_112636.jpg",
+        "thumb": "images-opt/studio-2/thumb/20241002_112636.jpg"
       },
       {
-        "full": "/images-opt/studio-2/20241002_112649-3.jpg",
-        "thumb": "/images-opt/studio-2/thumb/20241002_112649-3.jpg"
+        "full": "images-opt/studio-2/20241002_112649-3.jpg",
+        "thumb": "images-opt/studio-2/thumb/20241002_112649-3.jpg"
       },
       {
-        "full": "/images-opt/studio-2/studio-1-living.jpg",
-        "thumb": "/images-opt/studio-2/thumb/studio-1-living.jpg"
+        "full": "images-opt/studio-2/studio-1-living.jpg",
+        "thumb": "images-opt/studio-2/thumb/studio-1-living.jpg"
       }
     ]
   },
@@ -4317,20 +4317,20 @@ export const lodges: Lodge[] = [
     "category": "Studio",
     "images": [
       {
-        "full": "/images-opt/studio-3/1.jpg",
-        "thumb": "/images-opt/studio-3/thumb/1.jpg"
+        "full": "images-opt/studio-3/1.jpg",
+        "thumb": "images-opt/studio-3/thumb/1.jpg"
       },
       {
-        "full": "/images-opt/studio-3/20200205_144138-4-2.jpg",
-        "thumb": "/images-opt/studio-3/thumb/20200205_144138-4-2.jpg"
+        "full": "images-opt/studio-3/20200205_144138-4-2.jpg",
+        "thumb": "images-opt/studio-3/thumb/20200205_144138-4-2.jpg"
       },
       {
-        "full": "/images-opt/studio-3/studio-1-living1.jpg",
-        "thumb": "/images-opt/studio-3/thumb/studio-1-living1.jpg"
+        "full": "images-opt/studio-3/studio-1-living1.jpg",
+        "thumb": "images-opt/studio-3/thumb/studio-1-living1.jpg"
       },
       {
-        "full": "/images-opt/studio-3/studio-1-living_1.jpg",
-        "thumb": "/images-opt/studio-3/thumb/studio-1-living_1.jpg"
+        "full": "images-opt/studio-3/studio-1-living_1.jpg",
+        "thumb": "images-opt/studio-3/thumb/studio-1-living_1.jpg"
       }
     ]
   },
@@ -4340,16 +4340,16 @@ export const lodges: Lodge[] = [
     "category": "Studio",
     "images": [
       {
-        "full": "/images-opt/studio-4/20241002_112143.jpg",
-        "thumb": "/images-opt/studio-4/thumb/20241002_112143.jpg"
+        "full": "images-opt/studio-4/20241002_112143.jpg",
+        "thumb": "images-opt/studio-4/thumb/20241002_112143.jpg"
       },
       {
-        "full": "/images-opt/studio-4/20241002_112200-2.jpg",
-        "thumb": "/images-opt/studio-4/thumb/20241002_112200-2.jpg"
+        "full": "images-opt/studio-4/20241002_112200-2.jpg",
+        "thumb": "images-opt/studio-4/thumb/20241002_112200-2.jpg"
       },
       {
-        "full": "/images-opt/studio-4/20241002_112232.jpg",
-        "thumb": "/images-opt/studio-4/thumb/20241002_112232.jpg"
+        "full": "images-opt/studio-4/20241002_112232.jpg",
+        "thumb": "images-opt/studio-4/thumb/20241002_112232.jpg"
       }
     ]
   },
@@ -4359,16 +4359,16 @@ export const lodges: Lodge[] = [
     "category": "Studio",
     "images": [
       {
-        "full": "/images-opt/studio-5/20241002_110824.jpg",
-        "thumb": "/images-opt/studio-5/thumb/20241002_110824.jpg"
+        "full": "images-opt/studio-5/20241002_110824.jpg",
+        "thumb": "images-opt/studio-5/thumb/20241002_110824.jpg"
       },
       {
-        "full": "/images-opt/studio-5/20241002_110926.jpg",
-        "thumb": "/images-opt/studio-5/thumb/20241002_110926.jpg"
+        "full": "images-opt/studio-5/20241002_110926.jpg",
+        "thumb": "images-opt/studio-5/thumb/20241002_110926.jpg"
       },
       {
-        "full": "/images-opt/studio-5/20241002_111011.jpg",
-        "thumb": "/images-opt/studio-5/thumb/20241002_111011.jpg"
+        "full": "images-opt/studio-5/20241002_111011.jpg",
+        "thumb": "images-opt/studio-5/thumb/20241002_111011.jpg"
       }
     ]
   },
@@ -4378,20 +4378,20 @@ export const lodges: Lodge[] = [
     "category": "Studio",
     "images": [
       {
-        "full": "/images-opt/studio-6/20241002_111832.jpg",
-        "thumb": "/images-opt/studio-6/thumb/20241002_111832.jpg"
+        "full": "images-opt/studio-6/20241002_111832.jpg",
+        "thumb": "images-opt/studio-6/thumb/20241002_111832.jpg"
       },
       {
-        "full": "/images-opt/studio-6/20241002_111911.jpg",
-        "thumb": "/images-opt/studio-6/thumb/20241002_111911.jpg"
+        "full": "images-opt/studio-6/20241002_111911.jpg",
+        "thumb": "images-opt/studio-6/thumb/20241002_111911.jpg"
       },
       {
-        "full": "/images-opt/studio-6/20241002_111948.jpg",
-        "thumb": "/images-opt/studio-6/thumb/20241002_111948.jpg"
+        "full": "images-opt/studio-6/20241002_111948.jpg",
+        "thumb": "images-opt/studio-6/thumb/20241002_111948.jpg"
       },
       {
-        "full": "/images-opt/studio-6/20241002_112021.jpg",
-        "thumb": "/images-opt/studio-6/thumb/20241002_112021.jpg"
+        "full": "images-opt/studio-6/20241002_112021.jpg",
+        "thumb": "images-opt/studio-6/thumb/20241002_112021.jpg"
       }
     ]
   },
@@ -4401,20 +4401,20 @@ export const lodges: Lodge[] = [
     "category": "Studio",
     "images": [
       {
-        "full": "/images-opt/studio-7/20241002_111203.jpg",
-        "thumb": "/images-opt/studio-7/thumb/20241002_111203.jpg"
+        "full": "images-opt/studio-7/20241002_111203.jpg",
+        "thumb": "images-opt/studio-7/thumb/20241002_111203.jpg"
       },
       {
-        "full": "/images-opt/studio-7/20241002_111220.jpg",
-        "thumb": "/images-opt/studio-7/thumb/20241002_111220.jpg"
+        "full": "images-opt/studio-7/20241002_111220.jpg",
+        "thumb": "images-opt/studio-7/thumb/20241002_111220.jpg"
       },
       {
-        "full": "/images-opt/studio-7/20241002_111250-2.jpg",
-        "thumb": "/images-opt/studio-7/thumb/20241002_111250-2.jpg"
+        "full": "images-opt/studio-7/20241002_111250-2.jpg",
+        "thumb": "images-opt/studio-7/thumb/20241002_111250-2.jpg"
       },
       {
-        "full": "/images-opt/studio-7/20241002_111336.jpg",
-        "thumb": "/images-opt/studio-7/thumb/20241002_111336.jpg"
+        "full": "images-opt/studio-7/20241002_111336.jpg",
+        "thumb": "images-opt/studio-7/thumb/20241002_111336.jpg"
       }
     ]
   },
@@ -4424,20 +4424,20 @@ export const lodges: Lodge[] = [
     "category": "Studio",
     "images": [
       {
-        "full": "/images-opt/studio-8/20241002_111548.jpg",
-        "thumb": "/images-opt/studio-8/thumb/20241002_111548.jpg"
+        "full": "images-opt/studio-8/20241002_111548.jpg",
+        "thumb": "images-opt/studio-8/thumb/20241002_111548.jpg"
       },
       {
-        "full": "/images-opt/studio-8/20241002_111628.jpg",
-        "thumb": "/images-opt/studio-8/thumb/20241002_111628.jpg"
+        "full": "images-opt/studio-8/20241002_111628.jpg",
+        "thumb": "images-opt/studio-8/thumb/20241002_111628.jpg"
       },
       {
-        "full": "/images-opt/studio-8/20241002_111654.jpg",
-        "thumb": "/images-opt/studio-8/thumb/20241002_111654.jpg"
+        "full": "images-opt/studio-8/20241002_111654.jpg",
+        "thumb": "images-opt/studio-8/thumb/20241002_111654.jpg"
       },
       {
-        "full": "/images-opt/studio-8/20241002_111715.jpg",
-        "thumb": "/images-opt/studio-8/thumb/20241002_111715.jpg"
+        "full": "images-opt/studio-8/20241002_111715.jpg",
+        "thumb": "images-opt/studio-8/thumb/20241002_111715.jpg"
       }
     ]
   }

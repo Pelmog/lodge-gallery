@@ -36,7 +36,8 @@ function toDisplayName(folderName) {
 
 // Get image data for a lodge
 function getImages(lodgeDir, lodgeId) {
-  const basePath = useOptimized ? '/images-opt' : '/images';
+  // Use relative paths (no leading /) so Vite's base path is respected
+  const basePath = useOptimized ? 'images-opt' : 'images';
 
   if (useOptimized) {
     // Optimized: full images in root, thumbs in /thumb subfolder
